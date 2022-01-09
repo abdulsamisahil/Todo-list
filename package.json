@@ -1,0 +1,26 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "todo-list app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulsamisahil/Todo-list.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulsamisahil/Todo-list/issues"
+  },
+  "homepage": "https://github.com/abdulsamisahil/Todo-list#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
