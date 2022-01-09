@@ -41,6 +41,10 @@ button {
     font-size: 20px;
 }
 
+button:hover {
+    background: rgba(0,0,0,0.2);
+}
+
 ul {
     list-style-type: none;
     padding: 0; 
@@ -63,7 +67,12 @@ li:hover{
 }
 
 h1{
-    background: url(/assets/logo.jpg) no-repeat center;
-    margin-bottom: 0;
-    text-indent: -10000px;
+    text-align: center;
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
 }

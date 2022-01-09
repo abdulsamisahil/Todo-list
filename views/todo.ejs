@@ -1,7 +1,11 @@
 <html>
     <head>
-        <title>Todo List</title>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <title>Todo List</title> 
+        <script
+        src="https://code.jquery.com/jquery-1.12.4.js"
+        integrity="sha256-Qw82+bXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU="
+        crossorigin="anonymous"></script> 
+        <script src="/assets/todo-list.js"></script> 
         <link rel="stylesheet" href="/assets/styles.css" type="text/css">
     </head>
     <body>
@@ -11,11 +15,10 @@
                 <input type="text" name="item" placeholder="Add new item..." required>
                 <button type="submit">Add Item</button>
             </form>
-
             <ul>
-                <li>Item 1</li>
-                <li>Item 2</li>
-                <li>Item 3</li>
+               <% for(let i in todos){ %>
+                <li><%= todos[i].item %></li>
+            <% } %>
             </ul>
         </div>    
     </body>
