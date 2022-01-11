@@ -1,5 +1,5 @@
 body {
-    background: #0d1521; 
+    background: #b5ceca; 
     font-family: Tahoma, sans-serif;
     color: #989898;
 }
@@ -67,9 +67,10 @@ li:hover{
 }
 
 h1{
+    color: #0d1521;
     text-align: center;
     display: block;
-    font-size: 2em;
+    font-size: 4em;
     margin-top: 0.67em;
     margin-bottom: 0.67em;
     margin-left: 0;
