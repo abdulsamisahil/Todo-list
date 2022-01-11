@@ -1,0 +1,52 @@
+PC = ctrl 
+Mac = cmd
+
+PC = alt 
+Mac = option 
+
+Writing for pc, look into above vars for mac version 
+
+# Duplicate lines 
+    ctrl + alt + up down arrow keys 
+
+# Move line up or down 
+    Alt + up down arrow keys
+
+# Write on multiple lines (without mouse)
+    Shift + alt + ctrl + up down arrow keys
+
+# Write on multiple lines (with mouse)
+    Shift + alt + mouse click 
+
+# Place cursor at multiple locations 
+    Alt + mouse click
+
+# Select multiple similar words with cursor at multiple locations
+    ctrl + d 
+
+# Opening the same file in a new tab
+    ctrl + \ 
+
+# Hiding the left sidebar 
+    ctrl + b
+
+# Goto functions / variables definition in a new tab 
+    ctrl + alt + click on it 
+
+# Close a single tab 
+    ctrl + w 
+
+# Open file by writing its name 
+    ctrl + p -> write name 
+
+# Goto line 
+    ctrl + g -> line number 
+
+# Open / close terminal 
+    ctrl + j
+
+# Detecting errors and warnings 
+    ctrl + shift + m 
+
+# Toggle block comment lines or comment out lines after selection
+    Shift + alt + a
