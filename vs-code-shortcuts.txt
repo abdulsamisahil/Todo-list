@@ -7,7 +7,7 @@ Mac = option
 Writing for pc, look into above vars for mac version 
 
 # Duplicate lines 
-    ctrl + alt + up down arrow keys 
+    Shift + alt + up down arrow keys 
 
 # Move line up or down 
     Alt + up down arrow keys
