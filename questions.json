@@ -1,0 +1,2481 @@
+[
+    {
+        "_id": "61c3a6449dcfe0cd9e52394a",
+        "Category": "Skyltar",
+        "Correct": "Jag får inte parkera på platsen mellan klockan 0–6.",
+        "Image": "bilar-6",
+        "Incorrect": [
+            "Jag får parkera på platsen hela onsdagen utan att betala avgift.",
+            "Jag får parkera på platsen hela onsdagen förutsatt att jag betalar avgift.",
+            "Jag får inte parkera på platsen, eftersom parkeringen endast är till för boende."
+        ],
+        "Question": "Du är på besök i en stad och planerar parkering inför morgondagen, som är onsdag 1 maj (röd dag). Vad är sant?"
+    },
+    {
+        "_id": "61dd94b21ced60c79cb8d03f",
+        "Question": "Du ska svänga vänster i en cirkulationsplats. Är det krav på att ge tecken när du kör in i cirkulationen?",
+        "Correct": "Nej, jag måste endast ge tecken när jag ska köra ut ur cirkulationen",
+        "Image": "Cirkulationsplats 1",
+        "Category": "Trafikregler",
+        "Incorrect": [
+            "Ja, jag måste ge tecken med vänster körriktningsvisare"
+        ]
+    },
+    {
+        "_id": "61dd95cf1ced60c79cb8d040",
+        "Question": "Kan ditt körkort bli indraget om du skadar en bil på en parkeringsplats och du kör iväg utan att vidta någon åtgärd?",
+        "Correct": "Ja",
+        "Incorrect": [
+            "Nej"
+        ],
+        "Image": "Trafiko 2",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61dd96941ced60c79cb8d041",
+        "Question": "Vad gäller i korsningen?",
+        "Correct": "Utfartsregeln",
+        "Incorrect": [
+            "Högerregeln ",
+            "Alla andra fordon i korsningen har väjningsplikt mot mig"
+        ],
+        "Image": "Trafiko 3",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61dd973c1ced60c79cb8d042",
+        "Question ": "Du befinner dig på vägrenen och ska köra in på körbanan. Vad gäller?",
+        "Correct": "Jag har väjningsplikt mot fordon på vägen",
+        "Incorrect": [
+            "Jag ska använda den så kallade blixtlåsprincipen",
+            "Trafiken på vägen har väjningsplikt mot mig"
+        ],
+        "Image": "Trafiko 4",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61dd97e71ced60c79cb8d043",
+        "Question": "Är det tillåtet att köra i dagsljus med varselljus i kombination med halvljus?",
+        "Correct": "Nej",
+        "Image": "Trafiko 5",
+        "Category": "Trafikregler",
+        "Incorrect": [
+            "Ja"
+        ]
+    },
+    {
+        "_id": "61dd983d1ced60c79cb8d044",
+        "Question": "Du har stannat för ett rödljus vid ett övergångsställe. När det slår över till grönt är det fortfarande kvar barn på övergångsstället. Vad ska du göra?",
+        "Correct": "Vänta tills alla har gått över innan jag börjar köra",
+        "Image": "Trafiko 6",
+        "Category": "Trafikregler",
+        "Incorrect": [
+            "Börja åka sakta och vinka åt dem att skynda sig",
+            "Använda min ljudsignal för att de ska skynda sig, så att jag inte saktar ner trafiken",
+            "Börja köra eftersom det är grönt ljus"
+        ]
+    },
+    {
+        "_id": "61dd98fb1ced60c79cb8d045",
+        "Question": "I vilken situation gäller högerregeln?",
+        "Correct": "Jag kommer till en korsning i ett tättbebyggt område utan anvisningar",
+        "Incorrect": [
+            "Jag kör ut från en bensinstation",
+            "Jag kör på en huvudled och kommer till en korsning",
+            "Jag kör ut från en parkering"
+        ],
+        "Image": "Trafiko 7",
+        "Category": "Trafikregler",
+        "Explanation": "Alternativ 1: Fel, utfartsregeln gäller.Alternativ 2: Fel, högerregeln gäller inte på huvudled.Alternativ 3: Rätt, i denna situation gäller högerregeln.Alternativ 4: Fel, utfartsregeln gäller."
+    },
+    {
+        "_id": "61dd99ac1ced60c79cb8d046",
+        "Question": "Var är det tillåtet att parkera på vänster sida av vägen i färdriktningen?",
+        "Correct": "På en enkelriktad gata",
+        "Incorrect": [
+            "Det är aldrig tillåtet",
+            "På 30-vägar",
+            "I gångfartsområde"
+        ],
+        "Image": "Trafiko 8",
+        "Explanation": "”Det är endast tillåtet att stanna eller parkera på höger sida av vägen i färdriktningen. Undantag: Om vägen är enkelriktad, eller om det finns ett järnvägs- eller spårvagnsspår på höger sida, får parkering ske på vänster sida av vägen.” (Körkortsboken Körkortsteori 2021, sida 32)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61dd9a871ced60c79cb8d047",
+        "Question ": "Vilken anvisning ska du i första hand följa?",
+        "Correct": "En polismans anvisning",
+        "Incorrect": [
+            "En STOP-skylt",
+            "En trafiksignal",
+            "I Väjningsplikt"
+        ],
+        "Image": "Trafiko 9",
+        "Explanation": "I denna ordning ska du följa regler och anvisningar: Polisens anvisningar → Trafiksignal → Vägmärken → Regler.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61dd9b921ced60c79cb8d048",
+        "Question": "Du kör på en huvudled när du närmar dig denna korsning. Vad ska du göra?",
+        "Correct": "Fortsätta köra men vara handlingsberedd",
+        "Incorrect": [
+            "Fortsätta köra och räkna med att föraren i bilen från höger bromsar",
+            "Bromsa och låta bilen från höger köra ut på huvudleden"
+        ],
+        "Image": "Trafiko 10",
+        "Explanation": "Den silvergrå bilen som kommer från höger har väjningsplikt mot dig eftersom du kör på en huvudled. Trots detta ska du vara handlingsberedd eftersom det finns risk att föraren i bilen inte sett dig.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61dd9c591ced60c79cb8d049",
+        "Question": "Hur ska du placera dig i korsningen om du ska svänga höger?",
+        "Correct": "Så långt till höger som möjligt",
+        "Incorrect": [
+            "Intill vägens mitt",
+            "Så långt till vänster som möjligt"
+        ],
+        "Image": "Trafiko 11",
+        "Explanation": "Att placera bilen rätt i trafiken är viktigt eftersom man då visar var man tänker åka och undviker missförstånd.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61dd9d021ced60c79cb8d04a",
+        "Question": "Du närmar dig en cirkulationsplats när du ser denna skylt. Vilket körfält får du köra i om du ska köra rakt fram i cirkulationsplatsen?",
+        "Correct": "Det vänstra körfältet",
+        "Incorrect": [
+            "Det högra körfältet",
+            "Jag får köra rakt fram i både vänstra och högra körfältet"
+        ],
+        "Image": "Trafiko 12",
+        "Explanation": "Generellt ska du köra i högra körfältet om du ska köra rakt fram i en cirkulationsplats. I denna situation ska du däremot köra i vänstra körfältet enligt skylten.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61dda66c1ced60c79cb8d04b",
+        "Question ": "Får du koppla en släpvagn med dubbade däck till din bil som inte har dubbade däck?",
+        "Correct": "Ja",
+        "Incorrect": [
+            "Nej"
+        ],
+        "Image": "Trafiko 13",
+        "Explanation": "Om din bil har dubbade däck måste även släpvagnen ha dubbade däck. Om bilen inte har dubbade däck kan du tillkoppla en släpvagn med dubbade däck.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61dda6f01ced60c79cb8d04c",
+        "Question": "Vad är sant angående en busshållplats?",
+        "Correct": "Jag får bara stanna för att släppa av eller plocka upp passagerare om det kan ske utan att hindra busstrafiken",
+        "Incorrect": [
+            "Jag får inte stanna för att släppa av eller plocka upp passagerare",
+            "Jag får stanna på busshållplatsen i högst fem minuter",
+            "Jag får parkera på busshållplatsen om jag inte hindrar busstrafiken"
+        ],
+        "Image": "Trafiko 14",
+        "Explanation": "På busshållplatser gäller parkeringsförbud. Det är endast tillåtet att stanna för att släppa av eller på passagerare om det kan ske utan att hindra busstrafiken. Undantag: Är trottoarkanten vid busshållplatsen markerad med en heldragen gul linje gäller stoppförbud.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61dda8141ced60c79cb8d04e",
+        "Question": "Vad finns det för krav på en handledare vid privat övningskörning?",
+        "Correct": "Handledaren måste ha tillstånd",
+        "Incorrect": [
+            "Handledaren måste ha fyllt 35 år\n",
+            "Handledaren måste ha haft körkort i minst fem år utan en allvarlig trafikolycka\n"
+        ],
+        "Image": "Trafiko 15",
+        "Explanation": "Alternativ 1: Fel, handledaren måste ha fyllt 24 år.\nAlternativ 2: Fel, handledaren måste ha haft körkort under sammanlagt minst fem av de senaste 10 åren (det finns speciella undantag för denna regel). Om en olycka skett under dessa år har ingen påverkan.\nAlternativ 3: Rätt.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61dda8db1ced60c79cb8d04f",
+        "Question": "Vad är förbjudet på motorvägar?",
+        "Correct": "Att backa",
+        "Incorrect": [
+            "Köra om ett fordon innan en kurva",
+            "Köra med lätt motorcykel",
+            "Köra med lätt motorcykel"
+        ],
+        "Image": "Trafiko 16",
+        "Explanation": "",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61dda96a1ced60c79cb8d050",
+        "Question": "Om höjden på en viadukt är under ____ så måste den märkas ut.",
+        "Correct": "4,5m",
+        "Incorrect": [
+            "2.5m",
+            "3.5m",
+            "5.5m"
+        ],
+        "Image": "Trafiko 17",
+        "Explanation": "Om en viadukt inte är utmärkt betyder det att den är minst 4.5 meter hög.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61dda9ff1ced60c79cb8d051",
+        "Question": "Får du parkera inom gångfartsområde?",
+        "Correct": "Ja, men endast vid markerad parkeringsplat.",
+        "Incorrect": [
+            "Ja, men endast på höger sida",
+            "Ja, men endast om jag inte utgör hinder för andra fordon",
+            "Nej"
+        ],
+        "Image": "Trafiko 18",
+        "Explanation": "”Generella regler på gågata och i gångfartsområde:- Du får inte köra i en högre hastighet än gångfart. - Du får inte parkera. Undantag: Om det finns specifikt utsatta parkeringsplatser får du parkera på dessa. - Du har väjningsplikt mot gående.” ﻿(Körkortsboken Körkortsteori 2021, sida 42)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddaad71ced60c79cb8d052",
+        "Question": "Vad gäller i korsningen efter vägmärket om inget annat anges?",
+        "Correct": "Jag ska lämna företräde åt trafik från höger",
+        "Incorrect": [
+            "All korsande trafik ska lämna mig företräde",
+            "Jag ska lämna företräde åt all korsande trafik",
+            "Jag ska lämna företräde åt trafik från vänster"
+        ],
+        "Image": "Trafiko 19",
+        "Explanation": "Skylt: ”Huvudled upphör” (Körkortsboken Körkortsteori 2021, sida 219)\nEftersom huvudleden upphör och det inte finns några andra anvisningar i korsningen så gäller högerregeln, det vill säga att du ska lämna företräde åt trafik från höger.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddabbf1ced60c79cb8d053",
+        "Question ": "Du kommer till en järnvägskorsning utan bommar och signal. Vad är sant?",
+        "Correct": "Jag får endast köra om fordon med två hjul",
+        "Incorrect": [
+            "Jag får endast köra om fordon med två hjul",
+            "Jag får köra om alla fordon"
+        ],
+        "Image": "Trafiko 20",
+        "Explanation": "I järnvägskorsningar utan bommar och signal gäller omkörningsförbud mot all trafik, utom tvåhjuliga fordon. Finns det däremot bommar eller signal gäller inte omkörningsförbud.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddacac1ced60c79cb8d054",
+        "Question ": "Du kör i en cirkulationsplats. Till höger närmar sig en bil som är på väg in i cirkulationen. Vad gäller?",
+        "Correct": "Jag har företräde eftersom jag redan kör i cirkulationen",
+        "Incorrect": [
+            "Jag ska stanna och släppa in bilen",
+            "Jag har väjningsplikt mot bilen enligt högerregeln",
+            "Varken jag eller bilen har väjningsplikt, det är ett ömsesidigt samspel"
+        ],
+        "Image": "Trafiko 21",
+        "Explanation": "",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddad421ced60c79cb8d055",
+        "Question": "Vilken är den högsta tillåtna hastigheten du får köra i vid bogsering med bogseringslina?",
+        "Correct": "30 km/h",
+        "Incorrect": [
+            "40 km/h",
+            "50 km/h",
+            "70 km/h"
+        ],
+        "Image": "Trafiko 22",
+        "Explanation": "Högsta tillåtna hastighet när du bogserar ett annat fordon med bogserlina är 30 km/h. Läs mer om bogsering på sida 94 i Körkortsboken Körkortsteori 2021.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddadd41ced60c79cb8d056",
+        "Question": "Vilken är den högsta hastighet en tung lastbil får köra på en landsväg med hastighetsbegränsningen 90 km/h?",
+        "Correct": "80 km/h",
+        "Incorrect": [
+            "60 km/h",
+            "70 km/h",
+            "90 km/h"
+        ],
+        "Image": "Trafiko 23",
+        "Explanation": "Tung lastbil får högst köra 80 km/h. Däremot på motorväg och motortrafikled får tung lastbil köra högst 90 km/h.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddae6c1ced60c79cb8d057",
+        "Question": "Du ska svänga höger när du ser denna trafiksignal. Vad gäller?",
+        "Correct": "Jag ska köra eftersom högerpilen lyser grönt",
+        "Incorrect": [
+            "Jag ska vänta tills det röda lyset blir grönt innan jag kör",
+            "Jag kan svänga höger oavsett vad trafiksignalen visar, men jag måste lämna företräde åt all trafik i korsningen"
+        ],
+        "Image": "Trafiko 24",
+        "Explanation": "Du ska följa en trafiksignals anvisningar före vägmärken. I denna situation får du svänga trots att det lyser rött eftersom högerpilen lyser grönt.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddb14c1ced60c79cb8d058",
+        "Question": "Du ska svänga till höger i korsningen. Vad gäller?",
+        "Correct": "Fordon från vänster ska lämna företräde",
+        "Incorrect": [
+            "Högerregeln gäller i denna korsning",
+            "Jag ska lämna företräde åt fordon från vänster"
+        ],
+        "Image": "Trafiko 25",
+        "Explanation": "Skylt: \"Varning för vägkorsning där trafikanter på anslutande väg (de tunna linjerna) har väjningsplikt eller stopplikt\" (Körkortsboken Körkortsteori 2021, sida 217)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddb20e1ced60c79cb8d059",
+        "Question ": "Får du stanna vid en spårvagnshållplats?",
+        "Correct": "Ja, men endast för på och avstigning om det kan ske utan att hindra spårvagnstrafiken",
+        "Incorrect": [
+            "Ja, men endast för att lasta av och på gods om det kan ske utan att hindra spårvagnstrafiken",
+            "Ja, jag får stanna men i max fem minuter",
+            "Nej"
+        ],
+        "Image": "Trafiko 26",
+        "Explanation": "Här gäller samma regler som vid en busshållplats. Du får stanna och släppa av/på passagerare om du inte hindrar spårvagnstrafiken. Du får inte parkera inom 20 meter före eller fem meter efter hållplatsen.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddb2af1ced60c79cb8d05a",
+        "Question ": "Är det tillåtet att köra om flera fordon i en följd på motorväg?",
+        "Correct": "Ja",
+        "Incorrect": [
+            "Ja, men endast om jag tydligt visar mina avsikter med ljus- eller ljudsignal",
+            "Nej"
+        ],
+        "Image": "Trafiko 27",
+        "Explanation": "Det är tillåtet att köra om flera fordon i följd men det är viktigt att du kontrollerar att inte något fordon framför dig byter till ditt körfält för att påbörja en omkörning. Om ett fordon med högre hastighet än dig närmar sig bakifrån ska du byta tillbaka till det högra körfältet så att fordonet kan passera. Läs mer om motorväg på sida 47 i Körkortsboken Körkortsteori 2021.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddb3631ced60c79cb8d05b",
+        "Question": "Vilka fordon måste vara utrustade med dessa reflexer?",
+        "Correct": "Släp med en totalvikt över 3.5 ton",
+        "Incorrect": [
+            "Lastbilar med en totalvikt över 3.5 ton",
+            "Alla släp",
+            "Alla lastbilar"
+        ],
+        "Image": "Trafiko 28",
+        "Explanation": "Läs mer om reflexer och ljus som släpvagnar ska vara utrustade med på sida 90 i Körkortsboken Körkortsteori 2021.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddb3f71ced60c79cb8d05c",
+        "Question ": "Du kör på en landsväg med ett körfält i vardera riktning när du närmar dig ett backkrön. Får du köra om strax innan backkrönet?",
+        "Correct": "Nej",
+        "Incorrect": [
+            "Ja, om framförvarande fordon i mitt körfält signalerar att det inte finns mötande trafik",
+            "Ja, men endast om jag gör en flygande omkörning"
+        ],
+        "Image": "Trafiko 29",
+        "Explanation": "”I dessa situationer är det ej tillåtet att köra om: När sikten är skymd vid backkrön eller kurvor. Undantag: Det är tillåtet om det finns flera körfält i varje färdriktning eller om du inte behöver överskrida mittlinjen.”(Körkortsboken Körkortsteori 2021, sida 71)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddb4b11ced60c79cb8d05d",
+        "Question ": "När är det tillåtet att köra med dimbakljus?",
+        "Correct": "När det är nedsatt sikt av snörök",
+        "Incorrect": [
+            "Det är alltid tillåtet",
+            "Endast i mörker",
+            "Endast när det inte finns gatubelysning"
+        ],
+        "Image": "Trafiko 30",
+        "Explanation": "”Dimbakljus förstärker bakljuset för att bakomvarande fordon ska upptäcka dig vid nedsatt sikt som till exempel kraftigt snöfall eller dimma. Du kan se på instrumentpanelen när dimbakljuset är på.” (Körkortsboken Körkortsteori 2021, sida 133)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddb5521ced60c79cb8d05e",
+        "Question": "Du är ute och kör när du ser en polisbil i backspegeln. Polisen signalerar först med helljus och sedan med växlande blått och rött ljus. Vad ska du göra?",
+        "Correct": "Stanna",
+        "Incorrect": [
+            "Lämna polisbilen fri väg",
+            "Sänka hastigheten",
+            "Fortsätta köra utan att vidta någon åtgärd"
+        ],
+        "Image": "Trafiko 31",
+        "Explanation": "Polisbilen signalerar att du ska stanna. Kör därför in till vägkanten och stanna framför polisfordonet. Läs mer om tecken av polis på sidorna 234 – 235 i Körkortsboken Körkortsteori 2021.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddb7831ced60c79cb8d05f",
+        "Question": "Du kommer till en korsning där du ska köra rakt fram. På den korsande vägen är det ett demonstrationståg. Hur gör du?",
+        "Correct": "Jag väntar tills demonstrationståget har gått förbi innan jag kör",
+        "Incorrect": [
+            "Jag kör sakta genom korsningen så att demonstrationståget hinner flytta på sig",
+            "Jag använder min ljudsignal så att demonstrationståget flyttar på sig"
+        ],
+        "Image": "Trafiko 32",
+        "Explanation": "Eftersom gångtrafikanterna redan befinner sig på vägen ska du avvakta tills alla har passerat.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddb82a1ced60c79cb8d060",
+        "Question ": "Har du väjningsplikt mot gångtrafikanten på bilden?",
+        "Correct": "Ja",
+        "Incorrect": [
+            "Nej, personen ska stanna i mitten och vänta tills jag kört förbi"
+        ],
+        "Image": "Trafiko 33",
+        "Explanation": "Vid obevakade övergångsställen, som på bilden, har du väjningsplikt mot trafikanter som är ute på övergångsstället eller just ska passera.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddb9021ced60c79cb8d061",
+        "Question": "Får du köra in på vägen på bilden för att plocka upp en kompis på ett hotell som ligger på vägen?",
+        "Correct": "Ja, men jag får endast köra i gångfart",
+        "Incorrect": [
+            "Ja, men jag får högst köra i 30 km/h",
+            "Nej"
+        ],
+        "Image": "Trafiko 34",
+        "Explanation": "I de flesta fall får du inte köra in på en gågata, du får endast korsa gatan. Det är däremot tillåtet att köra in på gågatan om du exempelvis ska plocka upp en gäst från ett hotell eller leverera gods till en butik som ligger på gatan.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddb99e1ced60c79cb8d062",
+        "Question": "Är det tillåtet att vända på en 90-väg?",
+        "Correct": "Ja, om det är klar sikt och jag ser att det inte kommer några fordon inom 200-300 meter framför eller bakom mig",
+        "Incorrect": [
+            "Ja, det är alltid tillåtet",
+            "Ja, men endast vid nödsituation",
+            "Nej"
+        ],
+        "Image": "Trafiko 35",
+        "Explanation": "Det är tillåtet men riskabelt att vända på en 90-väg. Därför är det viktigt att du har klar sikt så att du kan bedöma om vändningen kan ske på ett trafiksäkert sätt.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddba7c1ced60c79cb8d063",
+        "Question ": "Motorredskap får inte köras i samma hastighet som andra fordon. Vilken är den högsta tillåtna hastighet?",
+        "Correct": "Motorredskap klass I får högst köra 50 km/h och klass II 30 km/h",
+        "Incorrect": [
+            "Både motorredskap klass I och II får högst köra 50 km/h",
+            "Motorredskap klass I får högst köra 30 km/h och klass II 50 km/h"
+        ],
+        "Image": "Trafiko 36",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddbb061ced60c79cb8d064",
+        "Question": "Du ska svänga vänster i korsningen på bilden. Vad gäller?",
+        "Correct": "Jag kör fram men lämnar företräde åt mötande trafik",
+        "Incorrect": [
+            "Jag kör fram men lämnar företräde åt mötande trafik",
+            "Jag kör fram och utför svängen eftersom mötande trafik ska lämna mig företräde"
+        ],
+        "Image": "Trafiko 35",
+        "Explanation": "Du kan köra fram eftersom du har grönt ljus men i situationen på bilden har även mötande trafik grönt ljus. Enligt svängningsregeln har du vid vänstersväng väjningsplikt mot mötande trafik.\nOm trafiksignalen hade haft en grön pil till vänster hade mötande trafik haft rött ljus.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddc9731ced60c79cb8d065",
+        "Question": "Anser lagen att du parkerat om du stannar för att tala i mobiltelefon?",
+        "Correct": "Ja",
+        "Incorrect": [
+            "Nej"
+        ],
+        "Image": "Trafiko 38",
+        "Explanation": "”Oavsett om du sitter kvar i bilen eller inte räknas allt stannade som parkering, förutom om du stannar av följande orsaker:- För att trafiksituationen kräver det. - För att undvika fara. - För av- och påstigning av passagerare. - För av- och pålastning av gods.” ﻿(Körkortsboken Körkortsteori 2021, sida 34)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddc9fc1ced60c79cb8d066",
+        "Question ": "Du kommer fram till en korsning med en trafiksignal som blinkar gult. Under trafiksignalen sitter en väjningspliktsskylt. Vad gäller?",
+        "Correct": "Jag ska köra men jag har väjningsplikt mot fordon i korsningen",
+        "Incorrect": [
+            "Jag måste vänta tills trafiksignalen slår om till grönt",
+            "Jag måste stanna och sedan har jag väjningsplikt mot andra fordon i korsningen",
+            "Skylten väjningsplikt gäller bara vid grönt ljus"
+        ],
+        "Image": "Trafiko 39",
+        "Explanation": "”Vid blinkande gult ljus gäller övriga anvisningar i korsningen som stopplikt eller väjningsplikt. Om vägmärken inte finns gäller högerregeln. I denna situation ska du vara extra försiktig och uppmärksamma vad som gäller i korsningen.” (Körkortsboken Körkortsteori 2021, sida 26)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddcac21ced60c79cb8d067",
+        "Question": "Hur länge gäller prövotiden för B-körkort?",
+        "Correct": "2 år",
+        "Incorrect": [
+            "1 år",
+            "5 år",
+            "10 år"
+        ],
+        "Image": "Trafiko 40",
+        "Explanation": "”Du har två års prövotid från det att du fått ditt körkort. Det innebär att du måste göra om förarprovet ifall ditt körkort skulle återkallas under denna period.” (Körkortsboken Körkortsteori 2021, sida 11)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddcb7e1ced60c79cb8d068",
+        "Question ": "Du ska parkera nära en busshållplats. Hur långt ifrån hållplatsen får du parkera?",
+        "Correct": "20 meter före och fem meter efter",
+        "Incorrect": [
+            "10 meter före och 10 meter efter",
+            "30 meter före och 30 meter efter",
+            "Fem meter före och 20 meter efter"
+        ],
+        "Image": "Trafiko 41",
+        "Explanation": "”Du får inte parkera inom tjugo meter före eller fem meter efter en hållplats. Du får endast stanna inom detta område för av- och påstigning om det sker utan att hindra linjetrafiken.” (Körkortsboken Körkortsteori 2021, sida 33)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddcc2b1ced60c79cb8d069",
+        "Question ": "Du kommer till en STOP-skylt och stannar bakom en annan bil. Bilen framför dig kör, vad ska du göra?",
+        "Correct": "Jag måste stanna omedelbart innan jag kör ut",
+        "Incorrect": [
+            "Jag kan köra direkt efter bilen",
+            "Jag kan köra sakta och om det inte kommer fordon på korsande väg kan jag fortsätta köra"
+        ],
+        "Image": "Trafiko 42",
+        "Explanation": "Trots att du redan stannat nära den korsande vägen måste du alltid stanna omedelbart innan du kör ut.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddcca81ced60c79cb8d06a",
+        "Question ": "Du kör på en motorväg med tillkopplad bromsad släpvagn. Hur fort får du köra?",
+        "Correct": "80 km/h",
+        "Incorrect": [
+            "70 km/h",
+            "90 km/h",
+            "110 km/h"
+        ],
+        "Image": "Trafiko 43",
+        "Explanation": "Högsta tillåtna hastighet för bil med tillkopplad bromsad släpvagn är 80 km/h.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddcd271ced60c79cb8d06b",
+        "Question ": "Det står en gångtrafikant och väntar på att passera övergångsstället på bilden. Har du väjningsplikt?",
+        "Correct": "Nej",
+        "Incorrect": [
+            "Ja"
+        ],
+        "Image": "Trafiko 44",
+        "Explanation": "Det är ett bevakat övergångsställe och eftersom trafiksignalen lyser rött för gångtrafikanten har du inte väjningsplikt mot honom.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddcda61ced60c79cb8d06c",
+        "Question ": "Vad gäller i denna situation?",
+        "Correct ": "Jag ska lämna företräde åt mötande fordon",
+        "Incorrect": [
+            "Mötande fordon ska lämna mig företräde"
+        ],
+        "Image": "Trafiko 45",
+        "Explanation": "Mötande fordon ska lämna mig företräde",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddce251ced60c79cb8d06d",
+        "Question": "Vad har en vägtransportledare för uppgift?",
+        "Correct": "Vad har en vägtransportledare för uppgift?",
+        "Incorrect": [
+            "Att hjälpa till var fordon ska parkera vid stora evenemang",
+            "Att köra lastbilar när det anses vara stor risk för olycka, t.ex. vid halt vägunderlag",
+            "Att hjälpa till att leda trafik vid större olyckor"
+        ],
+        "Image": "Trafiko 46",
+        "Explanation": "Vägtransportledare eskorterar och hjälper till vid tunga, långa och breda dispenstransporter. De har, precis som polisen, rätt att ge anvisningar till vägtrafikanter. Du känner igen dem på deras gula jacka och marinblå byxor.",
+        "Catgory": "Trafikregler"
+    },
+    {
+        "_id": "61ddcec71ced60c79cb8d06e",
+        "Question": "Du kör på en huvudled som fortsätter till höger i korsningen. Måste du ge tecken om du ska fortsätta på huvudleden?",
+        "Correct": "Ja",
+        "Incorrect": [
+            "Nej"
+        ],
+        "Image": "Trafiko 47",
+        "Explanation": "Du ska alltid ge tecken med blinkers när du svänger i en korsning. Trots att du fortsätter på huvudleden räknas det ändå som att du gör en högersväng i korsningen.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddcf5b1ced60c79cb8d06f",
+        "Question ": "Du ska köra rakt fram. Vad gäller?",
+        "Correct": "Mötande trafik ska lämna mig företräde",
+        "Incorrect": [
+            "Jag ska lämna företräde åt mötande trafik"
+        ],
+        "Image": "Trafiko 48",
+        "Explanation": "Skylt: ”Mötande trafik har väjningsplikt” (Körkortsboken Körkortsteori 2021, sida 219)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddcfd91ced60c79cb8d070",
+        "Question ": "Vilken är den högsta totalvikten en lätt lastbil får ha?",
+        "Correct": "3.5 ton",
+        "Incorrect": [
+            "2.5 ton",
+            "4.5 ton",
+            "5 ton"
+        ],
+        "Image": "Trafiko 49",
+        "Explanation": "Om totalvikten överstiger 3.5 ton räknas det som tung lastbil.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddd06b1ced60c79cb8d071",
+        "Question": "Vilken är den högsta hastighet en moped klass II är konstruerad för?",
+        "Correct": "25 km/h",
+        "Incorrect": [
+            "35 km/h",
+            "45 km/h",
+            "50 km/h"
+        ],
+        "Image": "Trafiko 50",
+        "Explanation": "Moped klass I: Högst 45 km/h\nMoped klass II: Högst 25 km/h",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddd1331ced60c79cb8d072",
+        "Question": "När måste du ha vinterdäck?",
+        "Correct": "Vid vinterväglag mellan 1 december – 31 mars",
+        "Incorrect": [
+            "Jag måste alltid ha vinterdäck när det är vinterväglag",
+            "Jag måste aldrig ha vinterdäck, men det rekommenderas vid vinterväglag",
+            "Vid vinterväglag mellan 1 november – 31 april"
+        ],
+        "Image": "Trafiko 51",
+        "Explanation": "Du måste enligt lag ha vinterdäck mellan 1 december och 31 mars vid vinterväglag. Vinterdäck måste ha ett mönsterdjup på minst 3 mm.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddd2851ced60c79cb8d074",
+        "Question ": "Du vill stanna och lasta av gods. Är det tillåtet i den här situationen?",
+        "Correct": "Ja, om jag stannar intill den heldragna linjen",
+        "Incorrect": [
+            "Ja, om jag stannar intill trottoarkanten",
+            "Ja, om jag kör upp på trottoaren och inte hindrar cyklister eller gående"
+        ],
+        "Image": "Trafiko 52",
+        "Explanation": "Enligt vägmärket är området innanför den heldragna linjen en cykelbana och trottoaren en gångbana. Det är inte tillåtet att stanna på varken cykelbana eller gångbana och du måste därför stanna intill den heldragna linjen.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddd2ca1ced60c79cb8d075",
+        "Question ": "Hur fort får du köra med en lätt lastbil på en motorväg med hastighetsbegränsning 110 km/h?",
+        "Correct": "110 km/h",
+        "Incorrect": [
+            "80 km/h",
+            "100 km/h",
+            "90 km/h"
+        ],
+        "Image": "Trafiko 53",
+        "Explanation": "För lätt lastbil gäller samma hastighetsbegränsning som för en personbil. Därför får du köra i den rådande hastighetsbegränsning, som i detta fall är 110 km/h.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddd35c1ced60c79cb8d076",
+        "Question ": "Vad måste du göra om du har en husvagn tillkopplad som är bredare än din bil?",
+        "Correct": "Jag måste ha extra backspeglar så att jag kan se utanför husvagnen",
+        "Incorrect": [
+            "Jag måste markera sidorna bak på husvagnen med reflexer för att varna andra fordon",
+            "Jag måste markera husvagnen med en så kallad LGF-skylt",
+            "Jag måste inte göra något, husvagnen är redan utrustad och markerad med det som behövs"
+        ],
+        "Image": "Trafiko 54",
+        "Explanation": "”Om du kopplar på en släpvagn som är bredare än bilen, till exempel en husvagn, måste du montera extra yttre backspeglar på bilen.” (Körkortsboken Körkortsteori 2021, sida 91)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddd3e21ced60c79cb8d077",
+        "Question": "Framför dig kör ett fordon med LGF-skylt. Vilken är den högsta hastighet som fordonet får köra?",
+        "Correct": "45 km/h",
+        "Incorrect": [
+            "30 km/h",
+            "40 km/h",
+            "60 km/h"
+        ],
+        "Image": "Trafiko 55",
+        "EXplanation": "För att varna övriga trafikanter att ett fordon är ett långsamtgående fordon är de försedda med en LGF-skylt. Det innebär att de får köra i högst 45 km/h.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddd4681ced60c79cb8d078",
+        "Question": "När är det tillåtet att använda helljus?",
+        "Correct": "Vid möte av en gångtrafikant",
+        "Incorrect": [
+            "Vid möte med en spårvagn",
+            "Vid möte med en annan bil",
+            "Vid möte av en moped"
+        ],
+        "Image": "Trafiko 56",
+        "Explanation": "”När helljus inte får användas: […] När du möter andra fordon, spårvagn, tåg eller fartyg och föraren riskerar att bländas. Möter du gående ska du däremot fortsätta köra med helljus.” (Körkortsboken Körkortsteori 2021, sida 131)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddd5231ced60c79cb8d079",
+        "Correct": "Ja, men endast i situation A",
+        "Image": "Trafiko 57",
+        "Explanation": "När du kör genom vänsterkurvor på landsväg ska du försöka hitta så rak väg som möjligt genom kurvan. I kurvor med fri sikt är det tillåtet att överskrida mittlinjen om det inte kommer mötande trafik (situation A). I kurvor där sikten är skymd måste du hålla väl till höger eftersom du då inte kan avgöra om det kommer mötande trafik (situation B).",
+        "Category": "Trafikregler",
+        "Incorrect": [
+            "Ja, men endast i situation B",
+            "Ja, i både situation A och B",
+            "Nej"
+        ],
+        "Question": "Får du överskrida mittlinjen när du kör genom vänsterkurvan i någon av situationerna på bilderna?"
+    },
+    {
+        "_id": "61ddd5d71ced60c79cb8d07a",
+        "Question ": "Kan du bli straffad om du lånar ut din bil till någon, som du vet saknar körkort?",
+        "Correct": "Ja",
+        "Incorrect": [
+            "Nej"
+        ],
+        "Image": "Trafiko 58",
+        "Explanation": "Detta anses som ”tillåtelse av olovlig körning” och kan ge böter till personen som lånade ut bilen. Lag (1951:649) 3 § 3 st.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddd6861ced60c79cb8d07b",
+        "Question": "Du kör på en motorväg och närmar dig en påfart. Vad gäller?",
+        "Correct": "Jag ska underlätta för de fordon som ska köra in på motorvägen",
+        "Incorrect": [
+            "Jag har väjningsplikt mot de fordon som ska köra in på motorvägen",
+            "Jag måste byta till det vänstra körfältet för att undvika kollision",
+            "Jag måste alltid sakta in"
+        ],
+        "Image": "Trafiko 59",
+        "Explanation": "När du närmar dig en påfart ska du underlätta för de som ska köra in på motorvägen. Du behöver inte sänka hastigheten om det inte krävs för att underlätta för fordonen som ska köra in på motorvägen.\nDet är ett ömsesidigt samspel vilket betyder att det varken är du eller trafiken på påfarten som har väjningsplikt.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61ddd7331ced60c79cb8d07c",
+        "Question": "Vilka två ljus får du använda samtidigt?",
+        "Correct": "Halvljus och parkeringsljus",
+        "Incorrect": [
+            "Halvljus och dimljus",
+            "Dimljus och varselljus",
+            "Halvljus och varselljus"
+        ],
+        "Image": "Trafiko 60",
+        "Explanation": "Parkeringsljus har ett svagt ljus. Det är därför tillåtet att använda halvljus och parkeringsljus samtidigt eftersom risken för bländning är väldigt låg.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61def50ba838453660b1c951",
+        "Question": "Du kör ganska sakta när du märker att det bildats en lång kö bakom dig. Vad bör du göra?",
+        "Correct": "Köra in på närmast lämpliga parkeringsficka så att fordon bakom mig kan köra förbi",
+        "Incorrect": [
+            "Bromsa lätt så att bromsljusen tänds för att minska risken för påkörning bakifrån",
+            "Ingenting, det händer ofta att det bildas kö"
+        ],
+        "Image": "Trafiko 61",
+        "Explanation": "Du ska inte hindra annan trafik vilket du gör om du kör för sakta. För att inte hindra andra är det mest trafiksäkra sättet att köra in på en lämplig parkeringsficka och avvakta tills fordon bakom dig passerat.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61def599a838453660b1c953",
+        "Question": "En gående närmar sig från höger. Vad gäller?",
+        "Correct": "Jag har väjningsplikt mot den gående eftersom övergångsstället är obevakat",
+        "Incorrect": [
+            "Jag har väjningsplikt mot den gående eftersom övergångsstället är bevakat",
+            "Den gående har väjningsplikt mot mig eftersom övergångsstället är bevakat",
+            "Den gående har väjningsplikt mot mig eftersom han är på trottoaren"
+        ],
+        "Image": "Trafiko 62",
+        "Explanation": "Ett övergångsställe är obevakat när det inte finns trafiksignal eller polis som bevakar övergångsstället. Eftersom trafiksignalerna är släckta, det vill säga ur funktion, räknas övergångsstället som obevakat.\nVid obevakade övergångsställen har du väjningsplikt mot gående som befinner sig på eller just ska gå ut på övergångsstället. Därför har du väjningsplikt mot den gående i situationen.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61def70da838453660b1c954",
+        "Question": "Du har B-körkort med ett års prövotid kvar. Du utökar din behörighet genom att ta BE-körkort. Hur lång prövotid har du kvar?",
+        "Correct": "1 år, prövotiden jag har kvar påverkas inte av att jag tar BE-körkort\n",
+        "Incorrect": [
+            "6 år, 1 års prövotid kvar på B-körkortet och 5 år för BE-körkortet",
+            "3 år, 1 års prövotid kvar på B-körkortet och 2 år för BE-körkortet",
+            "2 år, 2 års prövotid för BE-körkortet"
+        ],
+        "Image": "Trafiko 63",
+        "Explanation": "”Du har två års prövotid från det att du fått ditt körkort. Det innebär att du måste göra om förarprovet ifall ditt körkort skulle återkallas under denna period.” (Körkortsboken Körkortsteori 2021, sida 11) Denna period påverkas inte av att du utökar din behörighet till BE-körkort.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61def788a838453660b1c955",
+        "Question": "Vilken är den högsta hastighet en tung lastbil får köra på en motorväg med hastighetsbegränsningen 110 km/h?",
+        "Correct": "90 km/h",
+        "Image": "Trafiko 64",
+        "Explanation": "Tung lastbil får köra högst 80 km/h, förutom på motorväg och motortrafikled där högsta tillåtna hastighet för tung lastbil är 90 km/h.",
+        "Category": "Trafikregler",
+        "Incorrect": [
+            "80 km/h",
+            "100 km/h",
+            "110 km/h"
+        ]
+    },
+    {
+        "_id": "61def804a838453660b1c956",
+        "Question": "Vilka fordon får fortsätta köra rakt fram?",
+        "Correct": "Linjetrafik, cyklar och mopeder klass II",
+        "Incorrect": [
+            "Linjetrafik och fordon över 3.5 ton",
+            "Bussar, motorcyklar och mopeder klass I",
+            "Endast cyklar"
+        ],
+        "Image": "Trafiko 65",
+        "Explanation": "Skylt: ”Påbjudet körfält eller körbana för fordon i linjetrafik m fl” (Körkortsboken Körkortsteori 2021, sida 219)\nÄven cyklar och mopeder klass II får passera vägmärket.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61def895a838453660b1c957",
+        "Question": "I vilken av situationerna på bilderna är det en cirkulationsplats?",
+        "Correct": "Endast situation B",
+        "Incorrect": [
+            "Endast situation A",
+            "Endast situation C",
+            "I alla situationer"
+        ],
+        "Image": "Trafiko 66",
+        "Explanation": "",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61def973a838453660b1c958",
+        "Question": "Du kör på en landsväg med en streckad vägren vid sidan. Vad ska du använda vägrenen till?",
+        "Correct": "Jag får använda vägrenen tillfälligt för att underlätta framkomligheten för andra fordon",
+        "Incorrect": [
+            "Jag måste alltid använda vägrenen om bakomvarande fordon vill köra om mig",
+            "Jag får endast använda vägrenen om det behövs för att undvika en farlig situation"
+        ],
+        "Image": "Trafiko 67",
+        "Explanation": "Alternativ 1: Fel, vägrenen kan användas i denna situation men du måste inte.Alternativ 2: Fel, den får även användas för andra syften.Alternativ 3: Rätt, du kan använda vägrenen för detta syfte.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61def9cba838453660b1c959",
+        "Question": "Du blir omkörd av en motorcyklist som sladdar och kör in i en mötande bil. Har du några skyldigheter?",
+        "Correct": "Ja, jag måste stanna kvar, hjälpa den skadade och hjälpa till att reda ut olyckan",
+        "Incorrect": [
+            "Ja, jag måste stanna kvar, men endast om min bil blev skadad på något sätt",
+            "Nej, jag orsakade inte olyckan"
+        ],
+        "Image": "Trafiko 68",
+        "Explanation": "Är du på något sätt inblandad i en trafikolycka är du skyldig att: hjälpa till att reda ut olyckan, lämna dina uppgifter och hjälpa eventuellt skadade personer. Detta gäller oavsett om du orsakat olyckan eller inte.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61defa6ca838453660b1c95a",
+        "Question": "Vad innebär linjen i mitten av vägen?",
+        "Corrrect": "Den markerar körbanans mitt",
+        "Incorrect": [
+            "Det är förbjudet att överskrida linjen",
+            "Den får endast överskridas för att undvika en farlig situation",
+            "Det är en spärrlinje"
+        ],
+        "Image": "Trafiko 69",
+        "Explanation": "Vägmarkering: ”Mittlinje eller körfältslinje. Mittlinje anger gränsen mellan körfält avsedda för färd i motsatta färdriktningar. Körfältslinje anger gränsen mellan körfält för färd i samma riktning.” (Körkortsboken Körkortsteori 2021, sida 236)\nDet är tillåtet att korsa mittlinjen, t.ex. vid en omkörning som kan ske på ett trafiksäkert sätt.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df17c8a838453660b1c95b",
+        "Question": "Vad gäller i situationen på bilden?",
+        "Correct ": "Hastighetsbegränsningen på vägen är 70 km/h",
+        "Incorrect": [
+            "70 km/h är en rekommenderad högsta hastighet",
+            "Tullavgiften på vägen är 70 kronor",
+            "Det är vägarbete om 70 meter"
+        ],
+        "Image": "Trafiko 70",
+        "Explanation": "Elektroniska vägmärken med röd ring anger den högsta tillåtna hastigheten, likt ett vanligt hastighetsvägmärke som inte är elektroniskt.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df1847a838453660b1c95c",
+        "Question": "Vilket fordon ska ha röda triangelformade reflexer baktill?",
+        "Correcct": "Släpvagn",
+        "Incorrect": [
+            "Lastbil",
+            "Motorredskap",
+            "Moped"
+        ],
+        "Image": "Trafiko 71",
+        "Explanation": "Det är flera olika motorfordon som har reflexer, men det är endast släpvagnar som har röda triangelformade reflexer baktill.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df18dda838453660b1c95d",
+        "Question": "Vad har du som förare för skyldighet när det gäller bilbälten?",
+        "Correct": "Jag är skyldig att se till att alla barn under 15 år har bilbälte eller särskild skyddsanordning",
+        "Incorrect": [
+            "Jag är skyldig att se till att alla i bilen har bilbälte",
+            "Jag som förare är alltid skyldig att ha bilbälte, även i ett parkeringshus"
+        ],
+        "Image": "Trafiko72",
+        "Explanation": "",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df197ea838453660b1c95e",
+        "Question": "Du ska fortsätta köra rakt fram. Gäller högerregeln i någon av korsningarna?",
+        "Correct": "Ja, i både situation A och B",
+        "Incorrect": [
+            "Ja, men endast i situation A",
+            "Ja, men endast i situation B",
+            "Nej"
+        ],
+        "Image": "Trafiko 73",
+        "Explanation": "”Högerregeln innebär att du ska lämna företräde åt trafik som kommer från höger. Det är den vanligaste väjningsregeln och ska tillämpas i korsningar där inga andra anvisningar finns.” (Körkortsboken Körkortsteori 2021, sida 19)\nEftersom det inte finns några andra anvisningar i någon av korsningarna i situation A och B så gäller högerregeln i båda.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df1a27a838453660b1c95f",
+        "Question": "Kan ditt körkort bli indraget om du skadar en bil på en parkeringsplats och du kör iväg utan att vidta någon åtgärd?",
+        "Correct": "Ja",
+        "Incorrect": [
+            "Nej"
+        ],
+        "Image": "Trafiko 74",
+        "Explanation": "”Exempel när Transportstyrelsen kan återkalla ditt körkort: […] Om du har smitit från en trafikolycka du vart inblandad i. Detta gäller även om du inte orsakat olyckan.” (Körkortsboken Körkortsteori 2021, sida 176)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df1ab8a838453660b1c960",
+        "Question": "Vem kan begära att få kontrollera ditt körkort?",
+        "Correct": "Bilinspektör och polis",
+        "Incorrect": [
+            "Vägarbetare med röd flagga och polis",
+            "Vägarbetare med röd flagga och bilinspektör"
+        ],
+        "Image": "Trafiko 75",
+        "Explanation": "”En polisman eller en bilinspektör kan när som helst stanna dig ute på vägarna för att kontrollera ditt fordon, vilket kallas för en flygande inspektion.” (Körkortsboken Körkortsteori 2021, sida 145)\nUnder denna inspektion har de även rätt att kontrollera ditt körkort.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df1b9ba838453660b1c961",
+        "Question": "Vid vilket tillfälle får du inte köra om på motorväg?",
+        "Correct": "Då bakomvarande fordon påbörjat en omkörning",
+        "Incorrect": [
+            "I mörker",
+            "Strax före en skarp kurva",
+            "Strax före ett backkrön"
+        ],
+        "Image": "Trafiko 76",
+        "Explanation": "Du får inte öka farten eller påbörja en omkörning när du blir omkörd. Läs mer om vilka regler som gäller när du blir omkörd på sida 72 i Körkortsboken Körkortsteori 2021.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df1c3aa838453660b1c962",
+        "Question": "När är det olagligt att köra efter att du har tagit narkotiska preparat?",
+        "Correct": "När det kan spåras i blodet",
+        "Incorrect": [
+            "Vid 0.2 promille",
+            "Vid 1.0 promille"
+        ],
+        "Image": "Trafiko 77",
+        "Explanation": "Om narkotika kan spåras i ditt blod är det olagligt att köra bil. En förare som kör narkotikapåverkad ses enligt lagen som rattfull och blir därför straffad på samma sätt.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df1cc9a838453660b1c963",
+        "Question": "Är det tillåtet att stanna där gula bilen har stannat?",
+        "Correct": "Ja, om det är minst 3 meter till den heldragna linjen",
+        "Incorrect": [
+            "Ja, om det är minst 1 meter till den heldragna linjen",
+            "Ja, om det är minst 2 meter till den heldragna linjen",
+            "Ja, om det är minst 4 meter till den heldragna linjen"
+        ],
+        "Image": "Trafiko 78",
+        "Explanation": "",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df20c0a838453660b1c964",
+        "Question": "Varför finns cirkulationsplatser?",
+        "Correct": "För att öka framkomligheten och minska antalet olyckor",
+        "Incorrect": [
+            "För att göra vägarna mer varierade, vilket minskar risken att förare somnar framför ratten",
+            "För att öka svårighetsgraden, vilket gör förare mer erfarna i trafiken"
+        ],
+        "Image": "Trafiko 79",
+        "Explanation": "”Vissa korsningar har ersatts med cirkulationsplatser för att öka framkomligheten och minska antalet olyckor.” (Körkortsboken Körkortsteori 2021, sida 45)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2137a838453660b1c965",
+        "Question": "Är det tillåtet att köra i dagsljus med varselljus i kombination med halvljus?",
+        "Correct": "Nej",
+        "Incorrect": [
+            "Ja"
+        ],
+        "Image": "Trafiko 80",
+        "Explanatio": "”Varselljus kan användas istället för halvljus i dagsljus vid bra siktförhållanden. Varselljus ska därför inte användas vid körning i nedsatt sikt som till exempel skymning, gryning, regn, dimma eller liknande. Varselljus får ej kombineras med dimljus.” (Körkortsboken Körkortsteori 2021, sida 132)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df21cea838453660b1c966",
+        "Question": "Är passagerares vikt inräknat i maxlasten?",
+        "Correct": "Ja, alltid",
+        "Incorrect": [
+            "Nej, det är endast det man lastar bilen med"
+        ],
+        "Image": "Trafiko 81",
+        "Explanation": "Passagerarnas vikt räknas till maxlasten. Exempel: Max tillåtna last för din bil är 500 kg. Kör du med en passagerare som väger 80 kg får du endast lasta bilen med ytterligare 420 kg.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2247a838453660b1c967",
+        "Question": "Vad gäller vid körning på motorväg?",
+        "Correct": "Jag får köra under 30 km/h om omständigheterna kräver det",
+        "Incorrect": [
+            "Jag får endast köra moped på vägrenen",
+            "Jag får stanna på vägrenen och plocka upp en passagerare om jag inte hindrar övrig trafik",
+            "Jag får stanna på vägrenen och plocka upp en passagerare om jag inte hindrar övrig trafik"
+        ],
+        "Image": "Trafiko 82",
+        "Explanation": "Du får inte köra så sakta att du hindrar annan trafik, men det är tillåtet att köra under 30 km/h om trafiksituationen kräver det. Ett exempel på detta är om det har bildats kö på motorvägen.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df22bfa838453660b1c968",
+        "Question": "Du har planerat att svänga höger men du kör i det vänstra körfältet. Får du byta körfält?",
+        "Correct": "Nej, jag får inte korsa den heldragna linjen",
+        "Incorrect": [
+            "Ja, linjen markerar endast körfälten",
+            "Ja, om det sker utan risk, linjen är endast en rekommendation att det är olämpligt att byta körfält"
+        ],
+        "Image": "Trafiko 83",
+        "Explanation": "”Generellt får du inte korsa en heldragen linje. Inget av fordonets hjul får föras över linjen. Det finns däremot undantag när det är tillåtet att korsa linjen:- Om det behövs för att du ska kunna passera ett hinder på vägen. - Om utrymmet i en korsning inte är tillräckligt för ditt fordon. - Om det behövs i färd till eller från en fastighet eller motsvarande. - Om det finns en streckad linje omedelbart till höger om den heldragna linjen.\" (Körkortsboken Körkortsteori 2021, sida 17)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2343a838453660b1c969",
+        "Question": "Du är ute och kör med din bil när du kommer fram till denna korsning. Får du fortsätta och köra rakt fram?",
+        "Correct": "Nej",
+        "Incorrect": [
+            "Ja"
+        ],
+        "Image": "Trafiko 84",
+        "Explanation": "Det är endast tillåtet för linjetrafik, moped klass II och cyklister att passera påbudsmärket.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2393a838453660b1c96a",
+        "Question": "Till vilken myndighet måste du anmäla att du sålt din bil?",
+        "Correct": "Till Transportstyrelsen",
+        "Incorrect": [
+            "Till Trafikverket",
+            "Till mitt försäkringsbolag",
+            "Till polisen"
+        ],
+        "Image": "Trafiko 85",
+        "Explanation": "Detta måste ske inom 10 dagar efter ägarbytet.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2402a838453660b1c96b",
+        "Question": "Vilka räknas som vägtrafikanter?",
+        "Correct": "Alla som befinner sig på vägen",
+        "Incorrect": [
+            "Endast de som färdas i motordrivna fordon",
+            "Endast de som färdas på en cykel",
+            "Endast gående trafikanter"
+        ],
+        "Image": "Trafiko 86",
+        "Explanation": "Alla som färdas, eller befinner sig, på vägen är vägtrafikanter. Det spelar ingen roll om du färdas i ett fordon eller går på vägen, i båda fallen räknas du som en vägtrafikant.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2481a838453660b1c96c",
+        "Question": "På vilken av följande platser får du inte stanna för att släppa av en passagerare?",
+        "Correct": "På en plats där bilen skymmer ett vägmärke",
+        "Incorrect": [
+            "På huvudled",
+            "Framför en utfart",
+            "På en busshållplats"
+        ],
+        "Image": "Trafiko 87",
+        "Explanation": "Det är förbjudet att både stanna och parkera där du skymmer ett vägmärke eller trafiksignal. Läs mer om var du får stanna och parkera på sida 33 i Körkortsboken Körkortsteori 2021.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df250ea838453660b1c96d",
+        "Question": "Du ska ut och köra din personbil, vilken handling måste du ta med dig?",
+        "Correct": "Körkort",
+        "Incorrect": [
+            "Registreringsbevis",
+            "Kvitto på att bilen är trafikförsäkrad",
+            "Besiktningsprotokoll"
+        ],
+        "Image": "Trafiko 88",
+        "Explanation": "Du ska alltid ha med dig körkort. Du måste inte ta med dig något av de andra alternativen men de kan komma till nytta.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2574a838453660b1c96e",
+        "Question": "Är det tillåtet att stanna som den röda bilen har gjort?",
+        "Correct": "Nej",
+        "Incorrect": [
+            "Ja, eftersom inget hjul överskrider kantlinjen"
+        ],
+        "Image": "Trafiko 89",
+        "Explanation": "På bilden är det en motortrafikled. Det är inte tillåtet att stanna på motortrafikled eller motorväg och det är därför inte tillåtet att stanna som den röda bilen har gjort. Undantag: Om du får problem med din bil och inte kan köra vidare, till exempel motorstopp eller punktering, får du stanna vid sidan av vägen tills du åtgärdat problemet eller fått hjälp att bärga bilen.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2605a838453660b1c96f",
+        "Question": "När ska du använda varningsblinkers?",
+        "Correct": "När jag har fått motorstopp och utgör fara för andra fordon",
+        "Incorrect": [
+            "När jag stannat vid en busshållplats för att släppa av en passagerare",
+            "När jag parkerat på en huvudled"
+        ],
+        "Image": "Trafiko 90",
+        "Explanatiom": "”Varningsblinkers ska användas för att varna andra förare vid nödsituationer, till exempel nödstopp eller olycka. Varningsblinkers måste inte, men får användas i samband med bogsering.” (Körkortsboken Körkortsteori 2021, sida 135)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2683a838453660b1c970",
+        "Question": "Du ska köra in på en cykelgata. Vad gäller?",
+        "Correct": "Jag har väjningsplikt mot fordon på cykelgatan",
+        "Incorrect": [
+            "Fordon på cykelgatan har väjningsplikt mot mig",
+            "Det är ett ömsesidigt samspel mellan mig och fordon på cykelgatan"
+        ],
+        "Image": "Trafiko 91",
+        "Explanation": "”På cykelgator är högsta tillåtna hastigheten 30 km/h och du får endast parkera på särskilt anordnade parkeringsplatser. När du kör in på en cykelgata har du väjningsplikt mot fordon på cykelgatan och du ska anpassa hastigheten till cykeltrafiken. Cykelgator infördes den första december 2020.” (Körkortsboken Körkortsteori 2021, sida 44)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2719a838453660b1c971",
+        "Question": "Måste du alltid stanna innan du kör in i en cirkulationsplats?",
+        "Correct": "Nej, men jag har väjningsplikt mot fordon i cirkulationen",
+        "Incorrect": [
+            "Ja, men fordon i cirkulationen har väjningsplikt mot mig",
+            "Ja, och jag har väjningsplikt mot fordon i cirkulationen"
+        ],
+        "Image": "Trafiko 92",
+        "Category": "Trafikregler",
+        "Explanation": ""
+    },
+    {
+        "_id": "61df2777a838453660b1c972",
+        "Question": "När räknas det som att du har parkerat ditt fordon?",
+        "Correct": "När jag stannat för att snabbt ta ut pengar ur en bankomat",
+        "Incorrect": [
+            "När jag stannat för att plocka upp en passagerare",
+            "När jag stannat för att lasta ut en väska",
+            "När jag stängt av motorn vid ett rödljus"
+        ],
+        "Image": "Trafiko 93",
+        "Explanation": "”Oavsett om du sitter kvar i bilen eller inte räknas allt stannade som parkering, förutom om du stannar av följande orsaker:- För att trafiksituationen kräver det. - För att undvika fara. - För av- och påstigning av passagerare. - För av- och pålastning av gods.” (Körkortsboken Körkortsteori 2021, sida 34)\nOm du stannar för att trafiksituationen kräver det, som i alternativ 4, så räknas det inte som parkering, trots att du stängt av motorn.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2809a838453660b1c973",
+        "Question": "Du har stannat vid en parkeringsficka vid sidan av vägen. Måste du ge tecken när du ska köra ut på vägen igen?",
+        "Correct": "Ja",
+        "Incorrect": [
+            "Nej"
+        ],
+        "Image": "Trafiko 94",
+        "Explanation": "\"Blinkers ska användas i dessa situationer- När du ska vända på vägen - När du ska svänga i en vägkorsning - När du ska starta från en vägkant - När du ska byta körfält eller i övrigt flytta fordonet i sidled” (Körkortsboken Körkortsteori 2021, sida 134)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2882a838453660b1c974",
+        "Question": "Vad är gränsen för att en släpvagn alltid ska räknas som lätt släpvagn?",
+        "Correct": "Totalvikt på max 750 kg",
+        "Incorrect": [
+            "Totalvikt på max 950 kg",
+            "Totalvikt på max 850 kg",
+            "Totalvikt på max 650 kg"
+        ],
+        "Image": "Trafiko 95",
+        "Explanation": "\"Med B-behörighet får du dra lätt släpvagn. Lätt släpvagn är:- Släpvagn vars totalvikt inte överstiger 750 kg. - Om släpvagnen är tyngre än 750 kg får släpvagnens och bilens sammanlagda totalvikt inte överstiga 3500 kg.\" (Körkortsboken Körkortsteori 2021, sida 89)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2907a838453660b1c975",
+        "Question": "Du har köpt en begagnad bil. Inom hur lång tid måste du anmäla ägarbyte av ett registrerat fordon?",
+        "Correct": "Inom 10 dagar",
+        "Incorrect": [
+            "Inom sju dagar",
+            "Inom två veckor",
+            "Inom en månad"
+        ],
+        "Image": "Trafiko 96",
+        "Explanation": "”Vid ägarbyte av ett fordon ska både den gamla och den nya ägaren skicka in en anmälan om ägarbytet till Transportstyrelsen. Detta ska ske inom 10 dagar efter bytet.” (Körkortsboken Körkortsteori 2021, sida 147)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2976a838453660b1c976",
+        "Question": "Vad gäller vid bogsering av en annan bil?",
+        "Correct": "Om bogseringslinan är längre än två meter så måste den märkas ut",
+        "Incorrect": [
+            "Varningsblinkers på bilen som blir bogserad måste vara på",
+            "Den högsta tillåtna hastighet är 50 km/h"
+        ],
+        "Image": "Trafiko 97",
+        "Explanation": "Alternativ 1: Fel, den högsta tillåtna hastighet vid bogsering är 30 km/h.\nAlternativ 2: Fel, det är tillåtet men, varningsblinkers måste inte vara på.\nAlternativ 3: Rätt.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df29f0a838453660b1c977",
+        "Question": "Får du i någon av situationerna korsa den heldragna linjen?",
+        "Correct": "Ja, endast i situation B",
+        "Incorrect": [
+            "Ja, endast i situation A",
+            "Ja, endast i situation C",
+            "Nej"
+        ],
+        "Image": "Trafiko 98",
+        "Explanation": "”Generellt får du inte korsa en heldragen linje. Inget av fordonets hjul får föras över linjen. Det finns däremot undantag när det är tillåtet att korsa linjen:[…] Om det finns en streckad linje omedelbart till höger om den heldragna linjen.” (Körkortsboken Körkortsteori 2021, sida 17)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2a59a838453660b1c978",
+        "Question": "Du ska fortsätta rakt fram. Vilket påstående är korrekt?",
+        "Correct": "Den röda bilen har väjningsplikt mot mig",
+        "Incorrect": [
+            "Jag har väjningsplikt mot den röda bilen"
+        ],
+        "Image": "Trafiko 99",
+        "Explanation": "Den röda bilen kör ut från en fastighet och därför har den röda bilen väjningsplikt mot dig enligt utfartsregeln.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2ab9a838453660b1c979",
+        "Question": "Vad är sant angående gångfartsområde?",
+        "Correct": "Gångtrafikanter har företräde",
+        "Incorrect": [
+            "Gångtrafikanter ska lämna mig företräde",
+            "Jag får inte köra igenom, det är endast för gångtrafikanter",
+            "Den rekommenderade högsta hastighet är 30 km/h men jag får köra snabbare om det kan ske utan fara"
+        ],
+        "Image": "Trafiko 100",
+        "Explanation": "”Generella regler på gågata och i gångfartsområde:- Du får inte köra i en högre hastighet än gångfart. - Du får inte parkera. Undantag: Om det finns specifikt utsatta parkeringsplatser får du parkera på dessa. - Du har väjningsplikt mot gående.” ﻿(Körkortsboken Körkortsteori 2021, sida 42)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2b47a838453660b1c97a",
+        "Question": "Du har B-körkort och ska köra med tillkopplad släpvagn. Vilken är den högsta totalvikt som släpvagnen får ha om din bils totalvikt är 2100 kg?",
+        "Correct": "1 400 kg",
+        "Incorrect": [
+            "750 kg",
+            "900 kg",
+            "1 900 kg"
+        ],
+        "Image": "Trafiko 101",
+        "Explanation": "Bilens och släpvagnens sammanlagda totalvikt får inte överstiga 3.5 ton vid körning med B-körkort.\n2100 kg + 1400 kg = 3.5 ton",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2bcda838453660b1c97b",
+        "Question": "Ska du alltid väja och lämna fri väg för utryckningsfordon som t.ex. en ambulans?",
+        "Correct": "Nej, jag behöver inte lämna fri väg om utryckningsfordonet inte har blåljus eller sirener påslagna",
+        "Incorrect": [
+            "Ja, alltid"
+        ],
+        "Image": "Trafiko 102",
+        "Explanation": "Om en ambulans kör bakom dig utan påslaget blåljus kan du köra på som vanligt. ”Du ska lämna fri väg för utryckningsfordon med påslagna signaler, ofta både ljudsignaler och blåa ljussignaler. Utryckningsfordon är exempelvis ambulanser, polisbilar och brandbilar. Att lämna fri väg innebär att du kör åt sidan av vägen för att underlätta framkomligheten för utryckningsfordonet. Om det är nödvändigt ska du även stanna.” (Körkortsboken Körkortsteori 2021, sida 23)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2c3aa838453660b1c97c",
+        "Question": "Du kommer fram till denna korsning. Vad är rätt?",
+        "Correct": "Jag har väjningsplikt mot alla fordon på den korsande vägen",
+        "Incorrect": [
+            "Jag har endast väjningsplikt mot fordon som kommer från höger",
+            "Jag måste stanna innan jag kör ut på den korsande vägen"
+        ],
+        "Image": "Trafiko 103",
+        "Explanation": "Vid skylten Väjningsplikt ska du lämna företräde åt all trafik på den korsande vägen. Du måste inte stanna, om trafiksituationen inte kräver detta.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2ca5a838453660b1c97d",
+        "Question": "Vilken är den högsta tillåtna hastighet om du har ett efterfordon tillkopplat?",
+        "Correct": "30 km/h",
+        "Incorrect": [
+            "50 km/h",
+            "80 km/h",
+            "90 km/h"
+        ],
+        "Image": "Trafiko 104",
+        "Explanation": "\"Ett efterfordon är ett redskap eller annat som inte är en släpvagn eller ett terrängsläp men som är kopplat till en bil, en traktor, ett motorredskap eller terrängmotorfordon. […] Efterfordonet får dras i högst 30 km/timmen.”Transportstyrelsen",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2d1ea838453660b1c97e",
+        "Question": "Det står en gångtrafikant och väntar på att passera övergångsstället på bilden. Har du väjningsplikt?",
+        "Correct": "Nej",
+        "Incorrect": [
+            "Ja"
+        ],
+        "Image": "Trafiko 105",
+        "Explanation": "Det är ett bevakat övergångsställe och eftersom trafiksignalen lyser rött för gångtrafikanten har du inte väjningsplikt mot honom.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2d88a838453660b1c97f",
+        "Question": "Vad innebär den gula markeringen på trottoarkanten?",
+        "Correct": "Jag får inte stanna eller parkera vid markeringen",
+        "Incorrect": [
+            "Jag får stanna en kort stund, men inte parkera",
+            "Jag får parkera i max fem minuter"
+        ],
+        "Image": "Trafiko 106",
+        "Explanation": "Den gula markeringen innebär parkerings- och stoppförbud. Hade den gula linjen varit streckad och inte heldragen, hade det endast varit förbud mot att parkera.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2dfaa838453660b1c980",
+        "Question": "På vilken av följande platser är det förbjudet att stanna?",
+        "Correct": "I tunnel",
+        "Incorrect": [
+            "På huvudled",
+            "På körbanan bredvid en parkerad bil",
+            "På plats med gul streckad linje på trottoarkanten"
+        ],
+        "Image": "Trafiko 107",
+        "Explanation": "Läs mer om var du får stanna eller parkera på sida 33 i Körkortsboken Körkortsteori 2021.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2e95a838453660b1c981",
+        "Question": "I båda situationerna närmar sig den röda bilen från höger. Gäller utfartsregeln i någon av situationerna? I situation A kör du på en parkeringsplats.",
+        "Correct": "Nej",
+        "Incorrect": [
+            "Ja, men endast i situation A",
+            "Ja, men endast i situation B",
+            "Ja, i både situation A och B"
+        ],
+        "Image": "Trafiko 108",
+        "Explanatio": "På parkeringsplatser (situation A) gäller högerregeln. Det är endast vid utfart från en parkeringsplats som utfartsregeln gäller.\nI situation B kör den röda bilen från en enskild väg. När enskild väg korsar en allmän väg gäller högerregeln om inget annat anges.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2f3da838453660b1c982",
+        "Question": "Vem måste fylla i skadeanmälan om du varit inblandad i en olycka med ett annat fordon?",
+        "Correct": "Både jag och den andra föraren",
+        "Incorrect": [
+            "Endast personen som orsakat olyckan"
+        ],
+        "Image": "Trafiko 109",
+        "Explanation": "”För att försäkringsbolagen ska kunna utreda en olycka ska du fylla i en skadeanmälan. Om du är med i en olycka med ett annat fordon ska både du och föraren i det andra fordonet fylla i varsin skadeanmälan.” (Körkortsboken Körkortsteori 2021, sida 150)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df2fc5a838453660b1c983",
+        "Question": "Du har utskjutande last både fram och bak. Med lasten inräknat får inte fordonet vara längre än ______ .",
+        "Correct": "24 m",
+        "Incorrect": [
+            "10 m",
+            "20 m",
+            "30 m"
+        ],
+        "Image": "Trafiko 110",
+        "Explanation": "”Med lasten inräknad får fordonets totala längd inte överskrida 24 meter. Detta gäller även med tillkopplad släpvagn. Undantag: Om vissa krav uppnås får totala längden vara 25,25 meter.” (Körkortsboken Körkortsteori 2021, sida 143)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df304ca838453660b1c984",
+        "Question": "Måste du alltid stanna innan du korsar en väg där vägmärket ”Stopplikt” är uppsatt?",
+        "Correct": "Nej, inte om vägmärket är uppsatt vid en korsning med trafiksignaler",
+        "Incorrect": [
+            "Ja",
+            "Nej, jag behöver endast stanna om det finns en stopplinje"
+        ],
+        "Image": "Trafiko 111",
+        "Explanation": "Alternativ 1: Fel, finns det trafikljus eller en polis som ger anvisningar i korsningen ska du följa dessa anvisningar istället för stopplikten.\nAlternativ 2: Fel, trots att du inte ser stopplinjen eller om den har slitits ut och försvunnit ska du generellt stanna vid stopplikt.\nAlternativ 3: Rätt, i denna ordning ska du följa regler och anvisningar: Polisens anvisningar → Trafiksignal → Vägmärken → Regler. Därför behöver du inte stanna om det är grönt ljus.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df30dca838453660b1c985",
+        "Question": "När är det vanligtvis förbjudet att köra en bil med dubbdäck?",
+        "Correct": "16 april – 30 september",
+        "Incorrect": [
+            "1 april – 31 oktober",
+            "31 april – 30 september"
+        ],
+        "Image": "Trafiko 112",
+        "Explanatiom": "”Under perioden 16:e april – 30:e september är det dubbdäcksförbud. Undantag: Dubbdäck får användas under denna period om det förväntas, eller är, vinterväglag.” (Körkortsboken Körkortsteori 2021, sida 111)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df315ca838453660b1c986",
+        "Question": "Är det tillåtet att stanna där den gråa bilen står?",
+        "Correct": "Nej",
+        "Incorrect": [
+            "Ja, endast för att plocka upp passagerare eller lasta av/på gods",
+            "Ja, endast om det inte hindrar någon annan trafik",
+            "Ja, men det är inte tillåtet att parkera"
+        ],
+        "Image": "Trafiko 113",
+        "Explanation": "På ett övergångsställe är det förbjudet att stanna eller parkera. Du ska anpassa körningen så att du inte behöver stanna på övergångsställen.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df31d9a838453660b1c987",
+        "Question": "Du kör bakom en cyklist på en raksträcka. Får du köra om cyklisten om du närmar dig ett obevakat övergångsställe?",
+        "Correct": "Nej",
+        "Incorrect": [
+            "Ja"
+        ],
+        "Image": "Trafiko 114",
+        "Explanation": "Innan obevakade övergångsställen gäller generellt omkörningsförbud, detta gäller även tvåhjuliga fordon som t.ex. en cykel.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df323fa838453660b1c988",
+        "Question": "Du kör på en öppen grusplan som används för parkering. Vad gäller?",
+        "Correct": "Högerregeln ska tillämpas",
+        "Incorrect": [
+            "Inget fordon på grusplanen har väjningsplikt, det är ett ömsesidigt samspel",
+            "Det finns inga specifika regler för öppna platser som denna"
+        ],
+        "Image": "Trafiko 115",
+        "Explanation": "”Högerregeln ska även tillämpas när två fordon möts på öppna platser som till exempel ett torg, parkeringsområde eller liknande.” (Körkortsboken Körkortsteori 2021, sida 19)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df329ca838453660b1c989",
+        "Question": "När är det tillåtet att använda varningsblinkers?",
+        "Correct": "Om jag fått punktering så att jag måste stanna och utgör ett hinder för andra fordon",
+        "Incorrect": [
+            "Om jag har tillkopplad släpvagn och vill uppmärksamma andra förare",
+            "Om jag stannar för att släppa av en passagerare på en busshållplats"
+        ],
+        "Image": "Trafiko 116",
+        "Explanation": "”Varningsblinkers ska användas för att varna andra förare vid nödsituationer, till exempel nödstopp eller olycka. Varningsblinkers måste inte, men får användas i samband med bogsering.” (Körkortsboken Körkortsteori 2021, sida 135)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df3315a838453660b1c98a",
+        "Question": "Du är ute och kör på en huvudled när du ser en brandbil med blåljus och sirener påslagna i backspegeln. Vad ska du göra?",
+        "Correct": "Sänka hastigheten och köra åt sidan av vägen, eventuellt stanna",
+        "Incorrect": [
+            "Köra så nära vägens mittlinje som möjligt",
+            "Sänka hastigheten och köra åt sidan, men jag får inte stanna eftersom jag kör på huvudled",
+            "Köra på som vanligt"
+        ],
+        "Image": "Trafiko 117",
+        "Explanation": "”Du ska lämna fri väg för utryckningsfordon med påslagna signaler, ofta både ljudsignaler och blåa ljussignaler. Utryckningsfordon är exempelvis ambulanser, polisbilar och brandbilar. Att lämna fri väg innebär att du kör åt sidan av vägen för att underlätta framkomligheten för utryckningsfordonet. Om det är nödvändigt ska du även stanna.”",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df337fa838453660b1c98b",
+        "Question": "Du har utskjutande last som skjuter ut två meter framåt och bakåt. Ska lasten märkas ut i mörker?",
+        "Correct": "Ja, med vit reflex och vitt ljus framtill och röd reflex och rött ljus baktill",
+        "Incorrect": [
+            "Ja, med vit reflex och vitt ljus fram och baktill",
+            "Ja, med röd reflex och rött ljus fram och baktill",
+            "Nej, lasten behöver inte märkas ut"
+        ],
+        "Image": "Trafiko 118",
+        "Explanation": "”Last som skjuter ut framför fordonet eller mer än en meter bakom fordonet markeras i dagsljus med rödgula flaggor. I mörker ska lasten märkas med rött ljus och röda reflexer bakåt och vitt ljus och vita reflexer framåt.” (Körkortsboken Körkortsteori 2021, sida 143)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df3433a838453660b1c98c",
+        "Question": "Vad ska du göra enligt bilden?",
+        "Correct": "Jag ska lämna företräde till den röda bilen enligt högerregeln",
+        "Incorrect": [
+            "Jag har väjningsplikt mot den röda bilen eftersom jag redan kör i cirkulationen",
+            "Den röda bilen har väjningsplikt mot mig eftersom jag redan kör i cirkulationen"
+        ],
+        "Image": "Trafiko 119",
+        "Explanation": "Korsningen på bilden liknar en cirkulationsplats, men för att det ska vara en cirkulationsplats måste den vara utmärkt med vägmärket Cirkulationsplats vid alla infarter. Därför gäller högerregeln i korsningen och du ska lämna företräde till den röda bilen.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df34cca838453660b1c98d",
+        "Question": "Hur ska du tillämpa grundreglerna när du kör i tättbebyggt område med gatubelysning?",
+        "Correct": "Jag anpassar min hastighet när det finns barn i närheten",
+        "Incorrect": [
+            "Jag använder ljudsignalen för att skynda på en bil framför mig",
+            "Jag använder ljussignalen för att skynda på gångtrafikanter på ett övergångsställe",
+            "Jag använder helljus för att se bättre i mörkret och undvika fara"
+        ],
+        "Image": "Trafiko 120",
+        "Explanation": "Grundreglerna i trafiken är att: - ”Visa omsorg och varsamhet. - Inte störa eller hindra i onödan. - Visa hänsyn mot dem som befinner sig på eller bor vid vägen. - Visa extra hänsyn mot funktionshindrade, barn och äldre.” ﻿(Körkortsboken Körkortsteori 2021, sida 14)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df3572a838453660b1c98e",
+        "Question ": "Du kommer fram till en trafiksignal som lyser rött och gult. Vad är sant?",
+        "Correct": "Det kommer strax bli grönt",
+        "Incorrect": [
+            "Det kommer strax bli rött",
+            "Trafiksignalen är trasig"
+        ],
+        "Image": "Trafiko 121",
+        "Explanation": "Om det bara lyser gult kommer det strax växla om till rött (om trafiksignalen inte är ur funktion). Om det lyser rött och gult, som i detta fall, kommer det strax växla om till grönt.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61df35eca838453660b1c98f",
+        "Question": "Du ska svänga vänster i korsningen. Den röda bilen visar med blinkers att hon ska köra in på samma väg (dit den gröna pilen visar). Vad gäller?",
+        "Correct": "Jag ska lämna företräde åt den röda bilen enligt svängningsregeln",
+        "Incorrect": [
+            "Den röda bilen ska lämna mig företräde enligt svängningsregeln",
+            "Den röda bilen ska lämna mig företräde enligt högerregeln",
+            "Jag ska lämna företräde åt den röda bilen enligt högerregeln"
+        ],
+        "Image": "Trafiko 122",
+        "Explanation": "Högerregeln innebär att du ska lämna företräde åt trafik som närmar sig från höger, vilket inte gäller i denna situation eftersom den röda bilen närmar sig framifrån.\nI denna situation har du mötande trafik och enligt svängningsregeln ska du lämna företräde åt mötande trafik vid vänstersväng i korsning.\nLäs mer om svängningsregeln på sida 22 i Körkortsboken Körkortsteori 2021.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61e074f886019ab8947d4cab",
+        "Question": "Vad säger lagen om trötthet i trafiken?",
+        "Correct": "Har en förare orsakat en olycka på grund av trötthet jämställs det med att föraren kört påverkad",
+        "Incorrect": [
+            "Straffet blir mildare om en förare orsakat en olycka på grund av trötthet",
+            "Straffet påverkas inte av att en förare orsakat en olycka på grund av trötthet"
+        ],
+        "Image": "Trafiko 123",
+        "Explanation": "\"Att köra uttröttad kan enligt lagen räknas som rattfylleri. Har en förare orsakat en olycka på grund av trötthet jämställs det med att föraren kört påverkad.” (Körkortsboken Körkortsteori 2022, sida 157)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61e0759286019ab8947d4cac",
+        "Question": "Kan du dömas till fängelse ifall du döms för rattfylleri som ej betraktas som grovt?",
+        "Correct": "Ja, upp till sex månader",
+        "Incorrect": [
+            "Nej, det högsta straffet jag kan få är dagsböter och körkortsåterkallelse",
+            "Nej, det högsta straffet jag kan få är endast dagsböter"
+        ],
+        "Image": "Trafiko 124",
+        "Explanation": "Straff vid rattfylleri som ej betraktas som grovt: ”Vid denna nivå döms du för rattfylleri. Straffet är dagsböter eller upp till sex månaders fängelse. Normalt återkallas även körkortet.” (Körkortsboken Körkortsteori 2022, sida 162)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61e0761f86019ab8947d4cad",
+        "Question": "När blir det extra svårt för dig att uppfatta det som händer i trafiken?",
+        "Correct": "När jag blir bländad av mötande fordon",
+        "Incorrect": [
+            "När jag åker på landsvägar",
+            "När jag kör om ett annat fordon",
+            "När jag kör i tättbebyggt område med gatubelysning"
+        ],
+        "Image": "Trafiko 126",
+        "Explanation": "Vid bländning kan din siktsträcka bli noll meter och du ser i princip ingenting. Då är det väldigt svårt att uppfatta vad som händer i trafiken.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e076a886019ab8947d4cae",
+        "Question": "Vilken egenskap minskar risken att du blir inblandad i en trafikolycka?",
+        "Correct": "Bra självkännedom",
+        "Incorrect": [
+            "Att jag är tävlingsinriktad",
+            "Impulsivitet",
+            "Ouppmärksamhet"
+        ],
+        "Image": "Trafiko 127",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e076fd86019ab8947d4caf",
+        "Question": "Påverkas risken för tunnelseende av hastigheten?",
+        "Corrrect": "Ja, vid högre hastighet ökar risken för tunnelseende",
+        "Incorrect": [
+            "Ja, vid lägre hastighet ökar risken för tunnelseende",
+            "Nej, tunnelseende påverkas endast av förarens tillstånd",
+            "Nej, tunnelseende påverkas endast av siktförhållanden"
+        ],
+        "Image": "Trafiko 128",
+        "Explanation": "”Tunnelseende uppstår vid körning i hög fart. Ditt avsökningsområde blir smalare och din förmåga att uppfatta saker vid sidan av vägen försämras.” (Körkortsboken Körkortsteori 2022, sida 189)",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e077a386019ab8947d4cb0",
+        "Question": "Varför har impulsiva förare en tendens att vara trafikfarliga?",
+        "Correct": "De gör ofta manövrar i trafiken utan att tänka på konsekvenserna",
+        "Incorrect": [
+            "De ser lätt på trafikreglerna",
+            "De bryter ofta mot hastighetsbegränsningarna",
+            "De har dåligt självförtroende som bilförare"
+        ],
+        "Image": "Trafiko 129",
+        "Explanation": "”En impulsiv person handlar först och tänker sedan. Dessa personer kan vara väldigt farliga i trafiken eftersom de är oförutsägbara och överraskar andra förare.” (Körkortsboken Körkortsteori 2022, sida 174)",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0782686019ab8947d4cb1",
+        "Question": "Du har kört under en längre period och börjar bli trött. Du nickar till och råkar blunda i två sekunder. Hur långt har bilen färdats under denna tid om du kör i 110 km/h?",
+        "Correct": "Ca 60 meter",
+        "Incorrect": [
+            "Ca 40 meter",
+            "Ca 80 meter",
+            "Ca 100 meter"
+        ],
+        "Image": "Trafiko 130",
+        "Explanation": "Förenklad metod för att räkna ut hur långt bilen färdas: Stryk den sista siffran i hastigheten, multiplicera med tre och multiplicera sedan med tiden.\n110 km/h → 11\n11 * 3 * 2 = 66 m",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0792b86019ab8947d4cb2",
+        "Question": "Du har konsumerat 14 cl starksprit (40%). Hur många 50 cl starköl (5.6%) motsvarar detta?",
+        "Correct": "Ca två starköl",
+        "Incorrect": [
+            "Ca en starköl",
+            "Ca tre starköl",
+            "Ca fyra starköl"
+        ],
+        "Image": "Trafiko 131",
+        "Explanation": "Tumregel: En tumregel är att en 50 cl starköl (ca 5.6 %) motsvarar ca 7 cl starksprit, och en 50 cl folköl (ca 3.5 %) motsvarar ca 4.5 cl starksprit. 14 cl sprit motsvarar därför två starköl.\nUträkning: 14 cl starksprit (40%) = 14 * 0.4 = 5.6 cl ren alkohol\n1 starköl, 50 cl (5.6%) = 50 * 0.056 = 2.8 cl ren alkohol\nSpritens alkohol / ölens alkohol → 5.6 / 2.8 = 2 st\n14 cl sprit motsvarar därför två starköl.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e07b0886019ab8947d4cb3",
+        "Question": "Hur kan du ta reda på hur många passagerare din bil är godkänd för?",
+        "Correct": "Jag läser i registreringsbeviset",
+        "Incorrect": [
+            "Jag läser i besiktningsprotokollet",
+            "Jag läser i instruktionsboken"
+        ],
+        "Image": "Trafiko 132",
+        "Explanation": "Läs mer om registreringsbevis på sida 146 i Körkortsboken Körkortsteori 2022.",
+        "Category": "Trafiksäkerhet"
+    },
+    {
+        "_id": "61e07b7686019ab8947d4cb4",
+        "Question": "Vad är svårast att upptäcka vid backning av ett fordon?",
+        "Correct": "Barn som närmar sig snett bakifrån",
+        "Incorrect": [
+            "Cyklister som närmar sig från sidan",
+            "Barn som närmar sig från sidan",
+            "Cyklister som närmar sig rakt bakifrån"
+        ],
+        "Image": "Trafiko 133",
+        "Explanation": "Barn är små till växten vilket gör dem svåra att upptäcka. Trafikanter som närmar dig snett bakifrån är svårast att upptäcka vid backning.",
+        "Category": "Trafiksäkerhet"
+    },
+    {
+        "_id": "61e07c0a86019ab8947d4cb5",
+        "Question": "Hur påverkar alkohol och mediciner dig?",
+        "Correct": "Att blanda båda kan vara livsfarligt",
+        "Incorrect": [
+            "Mediciner gör mig vanligtvis till en bättre förare",
+            "Alkohol påverkar mig endast som bilförare om jag har över 0.8 promille i blodet"
+        ],
+        "Image": "Trafiko 134",
+        "Explanation": "En del mediciner påverkar din förmåga att köra bil negativt. Om du även konsumerar alkohol samtidigt kan det få livsfarliga konsekvenser. Läs bipacksedeln för att se vilka effekter alkohol har på medicinen.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e07c8786019ab8947d4cb6",
+        "Question": "Vilket alternativ beskriver bäst sannolikhetsinlärning?",
+        "Correct": "Jag lär mig av erfarenhet och hur trafiksituationer brukar vara",
+        "Incorrect": [
+            "Jag lär mig genom att köra i svårare trafiksituationer allt eftersom jag utvecklas",
+            "Jag lär mig genom att se hur andra trafikanter agerar i trafiken"
+        ],
+        "Image": "Trafiko 135",
+        "Explanation": "Ett exempel på sannolikhetsinlärning är att du kör sakta i närheten av förskolor och skolor eftersom du av erfarenhet vet att det brukar vara mycket barn i närheten.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e07cf686019ab8947d4cb7",
+        "Question": "Du kör i mörker när du får möte av en annan bil. Vad ska du göra för att inte bli bländad?",
+        "Correct": "Rikta blicken fram mot högerkanten av vägen",
+        "Incorrect": [
+            "Rikta blicken fram mot vänsterkanten av vägen",
+            "Blunda precis innan mötesögonblicket",
+            "Kolla i backspegeln precis innan mötesögonblicket"
+        ],
+        "Image": "Trafiko 136",
+        "Explanation": "”Håll blicken långt fram längs vägens högerkant. På så sätt blir du inte lika bländad av mötande fordon och du kan lättare upptäcka gående. För att undvika att kollidera med gående ska du inte köra för nära högerkanten.” (Körkortsboken Körkortsteori 2022, sida 75)",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e07d7186019ab8947d4cb8",
+        "Question": "Vilken av följande situationer ökar risken för fartblindhet?",
+        "Correct": "Vid körning av en tystgående bil",
+        "Incorrect": [
+            "Vid körning av en högljudd bil",
+            "Vid körning i tättbebyggt område",
+            "Vid körning i gångfartsområde"
+        ],
+        "Image": "Trafiko 137",
+        "Explanation": "”Är vägen bred och rak får inte hjärnan lika många sinnesintryck och risken för fartblindhet ökar. Även tystgående bilar ökar risken eftersom motorljudet är ett av intrycken som hjärnan använder för hastighetsbedömning.” (Körkortsboken Körkortsteori 2022, sida 188)",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e07dd986019ab8947d4cb9",
+        "Question": "Hur kan du känna igen en vägtransportledare?",
+        "Correct": "De bär en gul jacka och marinblå byxor",
+        "Incorrect": [
+            "De bär en blå overall med reflexer",
+            "De bär en orange reflexväst",
+            "De bär liknande klädsel som en polis"
+        ],
+        "Image": "Trafiko 138",
+        "Explanation": "Vägtransportledare eskorterar och hjälper till vid tunga, långa och breda dispenstransporter. De har, precis som polisen, rätt att ge anvisningar till vägtrafikanter. Du känner igen dem på deras gula jacka och marinblå byxor.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e07e4786019ab8947d4cba",
+        "Question": "Kan du på något sätt påverka din förbränning av alkohol?",
+        "Correct": "Nej",
+        "Incorrect": [
+            "Ja, med kaffe",
+            "Ja, med en stor måltid med mycket fet mat",
+            "Ja, genom att bada bastu"
+        ],
+        "Image": "Trafiko 139",
+        "Explanation": "Förbränning av alkohol går inte att påverka, oavsett vilken metod som tillämpas.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e07e9386019ab8947d4cbb",
+        "Question": "Vad stämmer bäst in på backning?",
+        "Correct": "Trots bra sikt bakåt finns det ändå stor risk att missa barn",
+        "Incorrect": [
+            "Vid bra sikt bakåt är det lätt att upptäcka låga hinder nära bakom bilen",
+            "Vid bra sikt bakåt är det lätt att upptäcka gångtrafikanter som står snett bakom bilen"
+        ],
+        "Image": "Trafiko 140",
+        "Explanation": "Låga hinder är svåra att upptäcka vid backning. Barn är därför svåra att se eftersom de är små till växten. Trafikanter som står eller närmar sig snett bakifrån är svårast att upptäcka vid backning.",
+        "Category": "Trafiksäkerhet"
+    },
+    {
+        "_id": "61e07f1086019ab8947d4cbc",
+        "Question": "Har ditt självförtroende betydelse för hur lätt du påverkas av grupptryck?",
+        "Correct": "Ja, med bra självförtroende står jag lättare emot grupptryck",
+        "Incorrect": [
+            "Ja, med bra självförtroende faller jag lättare för grupptryck",
+            "Nej, alla faller lika lätt för grupptryck, oavsett självförtroende"
+        ],
+        "Image": "Trafiko 141",
+        "Explanation": "Läs mer om grupptryck på sida 168 i Körkortsboken Körkortsteori 2022.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e07f6b86019ab8947d4cbd",
+        "Question": "Du är på väg att köra in på motorvägen. Vad är sant?",
+        "Correct": "Jag ska kraftigt öka min hastighet för att underlätta påfarten",
+        "Incorrect": [
+            "Jag måste lämna företräde till alla fordon på motorvägen",
+            "Alla fordon på motorvägen måste lämna mig företräde"
+        ],
+        "Image": "Trafiko 142",
+        "Explanation": "Du ska använda påfartens accelerationsfält för att öka din hastighet för att sedan köra in i en lucka på motorvägen. Varken du eller trafiken på motorvägen ska lämna företräde, det är ett ömsesidigt samspel.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61e07fb586019ab8947d4cbe",
+        "Question": "Vad menas med begreppet imitationsinlärning?",
+        "Correct": "Det betyder att jag lär mig från andra genom att se hur de gör",
+        "Incorrect": [
+            "Det betyder att jag lär mig av erfarenheter från tidigare situationer",
+            "Det betyder att jag lär mig genom att uppmärksamma vad som händer i min omgivning när jag kör"
+        ],
+        "Image": "Trafiko 143",
+        "Explanation": "”Imitationsinlärning innebär att du ser hur andra gör och härmar deras beteende. Speciellt oerfarna förare har en tendens att ta efter andra förares beteende eftersom man utgår från att andra förare har mer erfarenhet.” (Körkortsboken Körkortsteori 2022, sida 12)",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0801886019ab8947d4cbf",
+        "Question": "Du kör bakom en bil som du bestämmer dig för att köra om. Vad är svårast att göra i denna situation?",
+        "Correct": "Uppskatta vilken hastighet mötande fordon håller",
+        "Incorrect": [
+            "Uppskatta vilken hastighet bilen du kör om håller",
+            "Uppskatta när du kommer passera bilen du kör om"
+        ],
+        "Image": "Trafiko 144",
+        "Explanation": "Eftersom det är svårt att bedöma mötandes fordons hastighet så blir det även svårt att bedöma när du kommer möta fordonet. Därför ska du inte köra om ifall det kommer mötande trafik, det är för stor risk.\nSkulle du upptäcka ett mötande fordon under omkörningen ska du vara beredd att avbryta omkörningen.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61e080a786019ab8947d4cc0",
+        "Question": "Vad händer vid tunnelseende?",
+        "Correct": "Mitt avsökningsområde minskas och jag har svårare att uppfatta saker i min omgivning",
+        "Incorrect": [
+            "Mitt avsökningsområde blir större",
+            "Jag ser bättre med mitt periferiseende"
+        ],
+        "Image": "Trafiko 145",
+        "Explanation": "",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0812086019ab8947d4cc1",
+        "Question": "Hur gör du när du lär dig med hjälp av imitationsinlärning?",
+        "Correct": "Jag kollar på andra när de kör och gör som de gör",
+        "Incorrect": [
+            "Jag lär mig av mina misstag",
+            "Jag lär mig genom att läsa teori och använder det i praktiken",
+            "Jag gör samma övning flera gånger"
+        ],
+        "Image": "Trafiko 146",
+        "Explanation": "”Imitationsinlärning innebär att du ser hur andra gör och härmar deras beteende. Speciellt oerfarna förare har en tendens att ta efter andra förares beteende eftersom man utgår från att andra förare har mer erfarenhet.” (Körkortsboken Körkortsteori 2022, sida 12)",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0819886019ab8947d4cc2",
+        "Question": "Vilket påstående är sant angående alkohol i trafiken?",
+        "Correct": "Jag kan komma över gränsen för rattfylleri efter att ha druckit en burk starköl",
+        "Incorrect": [
+            "Jag måste dricka en större mängd alkohol för att mitt omdöme ska påverkas",
+            "Alkohol förbränns snabbare när jag vilar eller sover"
+        ],
+        "Image": "Trafiko 147",
+        "Explanation": "Enligt svensk lag går gränsen för rattfylleri vid 0.2 promille alkohol i blodet. Det krävs inte mycket alkohol för att överskrida denna gräns, det kan räcka med endast en starköl.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0824286019ab8947d4cc3",
+        "Question": "Vad är sant angående siktsträcka?",
+        "Correct": "Om jag blir direkt bländad kan siktsträckan bli noll meter",
+        "Incorrect": [
+            "Siktsträckan är längre vid körning i mörker",
+            "Vid körning i mörker ska jag alltid använda helljus för att se bättre",
+            "Vid körning med halvljus upptäcker jag en mörkklädd gångtrafikant på ca 100 meter"
+        ],
+        "Image": "Trafiko 148",
+        "Explanation": "Alternativ 1: Fel, med halvljus i mörker upptäcker du en mörkklädd gångtrafikant på ca 20 - 30 m.\nAlternativ 2: Fel, siktsträckan är kortare i mörker jämfört med dagsljus.\nAlternativ 3: Rätt, direkt bländning kan leda till att du i princip inte ser någonting.\nAlternativ 4: Fel, du ska inte alltid använda helljus i mörker. Du ska t.ex. inte använda helljus vid möte eftersom du riskerar att blända föraren.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e082f686019ab8947d4cc4",
+        "Question": "Vad är en konsekvens av grupptryck?",
+        "Correct": "Jag kör hem mina kompisar från en fest alkoholpåverkad, trots att jag inte vill",
+        "Incorrect": [
+            "Mina kompisar vill att jag sänker hastigheten, men jag ökar ändå",
+            "Jag kör hem trött på kvällen, trots att mina kompisar säger att jag inte borde"
+        ],
+        "Image": "Trafiko 149",
+        "Explanation": "”I en grupp som fungerar mindre bra vågar du kanske inte stå för din åsikt. Du gör som alla andra och följer gruppen på grund av grupptrycket.” (Körkortsboken Körkortsteori 2022, sida 169)\nI detta fall hade du inte kört hem alkoholpåverkad om inte dina kompisar hade övertygat dig.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0835b86019ab8947d4cc5",
+        "Question": "Kan du på något sätt påskynda förbränningen av alkohol?",
+        "Correct": "Nej",
+        "Incorrect": [
+            "Ja"
+        ],
+        "Image": "Trafiko 150",
+        "Explanation": "Förbränningen av alkohol går inte att påverka. Det hjälper inte att t.ex. dricka kaffe eller mjölk, bada bastu, springa, sova eller kräkas.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e083a386019ab8947d4cc6",
+        "Question": "Vid vilken situation är det störst risk att fartblindhet orsakar en olycka?",
+        "Correct": "När jag kör av en motorväg",
+        "Incorrect": [
+            "När jag kör ut ur en tunnel",
+            "När jag kör upp på en motorväg",
+            "När jag blir bländad av mötande trafik"
+        ],
+        "Image": "Trafiko 151",
+        "Explanation": "”När du kör i hög hastighet under en längre period är det lätt att bli fartblind. Fartblindhet innebär att du har svårt att bedöma vilken hastighet du kör i och det känns som du kör långsammare än vad du egentligen gör. Detta kan leda till att du missbedömer bromssträckan, minskar farten för lite och kör av vägen när du ska bromsa in vid en avfart.” (Körkortsboken Körkortsteori 2022, sida 188)",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0849086019ab8947d4cc7",
+        "Question": "Vad är sant?",
+        "Correct": "De som överskattar sin egen körförmåga löper större risk att råka ut för olyckor",
+        "Incorrect": [
+            "De som underskattar sin egen körförmåga kör ofta med för hög hastighet",
+            "Unga kvinnliga och unga manliga förare värderar sin egen körförmåga likvärdigt"
+        ],
+        "Image": "Trafiko 152",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0850e86019ab8947d4cc8",
+        "Question": "Hur påverkas förare generellt av stress?",
+        "Correct": "En förares körförmåga kan förbättras av lite stress",
+        "Incorrect": [
+            "En förares körförmåga påverkas inte av stress",
+            "En förares körförmåga försämras alltid av stress"
+        ],
+        "Image": "Trafiko 153",
+        "Explanation": "Stress påverkar generellt körförmågan, men den är inte alltid negativ. Lite stress kan öka en förares prestationsförmåga, men för hög stress kan försämra körförmågan kraftigt. Läs mer om stress på sida 170 i Körkortsboken Körkortsteori 2022.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0857d86019ab8947d4cc9",
+        "Question": "Hur kan du själv minska svårighetsgraden i bilkörningen?",
+        "Correct": "Genom att försöka undvika att köra i tät trafik",
+        "Incorrect": [
+            "Genom att alltid köra i tätort",
+            "Genom att köra i mörker"
+        ],
+        "Image": "Trafiko 154",
+        "Explanation": "Framför allt i början, när du inte är så van att köra bil, kan det vara en bra idé att undvika att köra i tät trafik. Det blir enklare och risken för en trafikolycka minskar.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e085de86019ab8947d4cca",
+        "Question": "Hur påverkas din syn om du är alkoholpåverkad?",
+        "Correct": "Synfältet blir smalare och skärpan försämras",
+        "Incorrect": [
+            "Synfältet blir smalare och skärpan förbättras",
+            "Synfältet blir bredare och skärpan förbättras",
+            "Synfältet blir bredare och skärpan försämras"
+        ],
+        "Image": "Trafiko 155",
+        "Explanation": "Läs mer om negativa effekter av alkohol på sida 160 i Körkortsboken Körkortsteori 2022.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0864986019ab8947d4ccb",
+        "Question": "På vilket avstånd märker du normalt en gående med reflexer om du kör med halvljus i mörker?",
+        "Correct": "Ca 125 meter",
+        "Incorrect": [
+            "Ca 40 meter",
+            "Ca 90 meter",
+            "Ca 150 meter"
+        ],
+        "Image": "Trafiko 156",
+        "Explanation": "”I denna tabell ser du exempel på vilket avstånd du upptäcker gående:\nMed halvljusMörkklädd: 20 – 30 meterLjusa kläder: 60 meterMed reflex: 125 meter\nMed helljusMörkklädd: 150 meterLjusa kläder: 300 meterMed reflex: 400 - 450 meter”(Körkortsboken Körkortsteori 2022, sida 74)",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0870d86019ab8947d4ccc",
+        "Question": "Vad är sant angående moped och motorcykel?",
+        "Correct": "Det är lätt att förväxla en mötande moped med en motorcykel på avstånd",
+        "Incorrect": [
+            "Det är ovanligt att förväxla en moped med en motorcykel eftersom de har olika storlek",
+            "Motorcykelförare är i regel mer impulsiva"
+        ],
+        "Image": "Trafiko 157",
+        "Explanation": "På avstånd är det lätt att förväxla mopeder och motorcyklar, men tänk på att en motorcykel kan köra avsevärt fortare!",
+        "Category": "Fordon & Miljö"
+    },
+    {
+        "_id": "61e0877686019ab8947d4ccd",
+        "Question": "Hur blir vi människor påverkade av hög bullernivå i trafiken?",
+        "Correct": "Vi kan få huvudvärk och svårare att koncentrera oss",
+        "Incorrect": [
+            "Vi blir ofta mer fokuserade\n",
+            "Vi blir ofta lugnare i trafiken\n",
+            "Vi blir inte påverkade\n"
+        ],
+        "Image": "Trafiko 158",
+        "Explanation": "”Vägtrafiken orsakar buller och så kallat infraljud. Infraljud är ett ljud som det mänskliga örat normalt inte uppfattar men som ändå påverkar vår hälsa. Infraljud och buller kan störa sömnen, ge insomningsproblem, koncentrationssvårigheter, huvudvärk och trötthet.” (Körkortsboken Körkortsteori 2022, sida 206)",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e087c486019ab8947d4cce",
+        "Question": "Vilket avstånd är svårast att bedöma?",
+        "Correct": "Avståndet till mötande fordon",
+        "Incorrect": [
+            "Avståndet till fordonet framför mig",
+            "Avståndet till en korsning",
+            "Avståndet till nästa avfart"
+        ],
+        "Image": "Trafiko 159",
+        "Explanation": "Mötande fordon rör sig i varierande hastighet mot dig och avståndet är därför svårt att bedöma.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0883f86019ab8947d4ccf",
+        "Question": "Vad är riktigt när det gäller hörseln?",
+        "Correct": "När jag sitter i en bil kan det vara svårt att avgöra från vilket håll en ambulans kommer ifrån",
+        "Incorrect": [
+            "Det går att höra när bilen har lite bränsle kvar i tanken eftersom motorn då börjar låta konstigt",
+            "Det är olagligt för hörselskadade att köra bil"
+        ],
+        "Image": "Trafiko 160",
+        "Explanation": "Alternativ 1: Fel, även hörselskadade personer får köra bil. Det finns trafikskolor som utbildar med hjälp av teckenspråk.\nAlternativ 2: Fel, motorns ljud ändras inte beroende på hur mycket bränsle du har kvar.\nAlternativ 3: Rätt, kolla efter de blinkande blåljusen för att avgöra var ambulansen kommer ifrån.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e088cd86019ab8947d4cd0",
+        "Qusetion": "Vad är vanligt bland förare över 75 år?",
+        "Correct": "Deras förmåga att se i mörker är sämre",
+        "Incorrect": [
+            "De har ofta kortare reaktionstid",
+            "De tar ofta större risker än yngre förare"
+        ],
+        "Image": "Trafiko 161",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0891e86019ab8947d4cd1",
+        "Question": "Hur många personer i Sverige skadas svårt i trafiken varje år?",
+        "Correct": "Ca 2 000",
+        "Incorrect": [
+            "Ca 5 000",
+            "Ca 8 000",
+            "Ca 11 000"
+        ],
+        "Image": "Trafiko 162",
+        "Explanation": "”I Sverige omkommer cirka 250 personer och cirka 2000 skadas svårt årligen i trafiken.” (Körkortsboken Körkortsteori 2022, sida 86)",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0898a86019ab8947d4cd2",
+        "Question": "Vad är en följd av att du bortförklarar dina misstag när du kör?",
+        "Correct": "Det är negativt eftersom jag inte lär mig av mina misstag",
+        "Incorrect": [
+            "Det är positivt eftersom mitt självförtroende ökar och jag blir säkrare i trafiken",
+            "Det är positivt, att tänka på mina misstag distraherar mig i trafiken",
+            "Det är negativt eftersom min självkännedom ökar"
+        ],
+        "Image": "Trafiko 163",
+        "Explanation": "”Vi vill inte gärna framstå som dåliga eller erkänna när vi gjort misstag. Vi försöker hitta orsaker som gör att skulden läggs på någon annan än oss själva.\n﻿Om det ”aldrig är ditt fel” och du hela tiden skyller ifrån dig, förlorar du möjligheten att lära dig av dina misstag.” (Körkortsboken Körkortsteori 2022, sida 173)",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e08a5786019ab8947d4cd3",
+        "Question": "Hur ska du bete dig/tänka i trafiken för att minska risken för en olycka i trafiken?",
+        "Correct": "Ha självkontroll",
+        "Incorrect": [
+            "Överskatta min körförmåga",
+            "Agera impulsivt",
+            "Följa alla regler i alla situationer"
+        ],
+        "Image": "Trafiko 164",
+        "Explanation": "God självkontroll påverkar dig positivt som förare.\nAlternativ 4: Fel, normalt ska du följa trafikreglerna, men undantagsvis om det krävs för att t.ex. hindra en olycka, får reglerna brytas.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e08ac486019ab8947d4cd4",
+        "Question": "Du har kört i hög hastighet under en lång period och blivit fartblind. Vad är den största risken vid fartblindhet?",
+        "Correct": "Att jag missbedömer fordonets bromssträcka",
+        "Incorrect": [
+            "Att jag kör för långsamt om jag inte tittar på hastighetsmätaren",
+            "Att jag missar vägmärken",
+            "Att jag får kortare siktsträcka"
+        ],
+        "Image": "TRafiko 165",
+        "Explanation": "”Fartblindhet innebär att du har svårt att bedöma vilken hastighet du kör i och det känns som du kör långsammare än vad du egentligen gör. Detta kan leda till att du missbedömer bromssträckan, minskar farten för lite och kör av vägen när du ska bromsa in vid en avfart.” (Körkortsboken Körkortsteori 2022, sida 188)",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e08b6a86019ab8947d4cd5",
+        "Question": "Du har villkor glasögon på ditt körkort. Vad gäller vid bilkörning?",
+        "Correct": "\nJag måste alltid använda glasögon eller linser",
+        "Incorrect": [
+            "Jag måste använda glasögon eller linser, men endast vid mörkerkörning",
+            "Jag måste ta med glasögon eller linser i bilen, men de behöver endast användas vid behov"
+        ],
+        "Image": "Trafiko 166",
+        "Explanation": "Om du har villkor glasögon på ditt körkort så måste du alltid använda glasögon eller linser vid körning, det räcker inte att endast ta med dem i bilen.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61e08bf486019ab8947d4cd6",
+        "Question": "Vad är en följd av överinlärning under din körträning?",
+        "Correct": "Jag blir bättre på att klara av svåra situationer i trafiken",
+        "Incorrect": [
+            "Jag blir sämre på att klara av svåra situationer i trafiken",
+            "Det har ingen påverkan på hur jag klarar svåra situationer"
+        ],
+        "Image": "Trafiko 167",
+        "Explanation": "”Under din körträning är det viktigt med överinlärning. Det handlar om att öva så pass mycket att det tekniska under din körning sker automatiskt. Kan du manövrera bilen utan att tänka på det kan du istället fokusera på att planera din körning och upptäcka faror.” (Körkortsboken Körkortsteori 2022, sida 12)",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e08c6386019ab8947d4cd7",
+        "Question": "Döms du för rattfylleri om du kör efter att ha druckit en starköl (5 %), 33 cl?",
+        "Correct": "Det är olika från person till person",
+        "Incorrect": [
+            "Ja, alltid",
+            "Nej, aldrig"
+        ],
+        "Image": "Trafiko 168",
+        "Explanation": "Det är flera olika faktorer som påverkar hur berusad du blir som t.ex. din hälsa, vikt, kön och hur van du är vid alkohol. Det är därför väldigt svårt att veta hur mycket alkohol som krävs för att komma över gränsen för rattfylleri, 0,2 promille. Det varierar från person till person. Avstå därför helt från alkohol om du vet att du ska köra!",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e08cc786019ab8947d4cd8",
+        "Question": "Vilket påstående är korrekt om ditt sätt att fästa blicken?",
+        "Correct": "Om jag fäster blicken på ett föremål är risken stor att jag missar annan viktig information",
+        "Incorrect": [
+            "Om jag håller blicken fäst strax framför mitt fordon är det lättare att upptäcka faror",
+            "Om jag fäster blicken på fordonet framför mig är det lättare att undvika faror",
+            "I regel håller vana förare blicken precis framför sitt fordon"
+        ],
+        "Image": "Trafiko 169",
+        "Explanation": "För att upptäcka viktig information och faror i god tid är det viktigt att ha en rörlig blick och rikta blicken långt fram.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e08d4486019ab8947d4cd9",
+        "Question": "Vad är den största risken när du möter andra fordon i mörker?",
+        "Correct": "Att jag får kortare siktsträcka eftersom den mötandes ljus bländar",
+        "Incorrect": [
+            "Att jag kör mot ljuset och kolliderar med mötande fordon",
+            "Att jag har svårt att bestämma vilken typ av fordon jag möter"
+        ],
+        "Image": "Trafiko 170",
+        "Explanation": "För att inte bli bländad ska du försöka att inte fokusera på ljuset. Blir du direkt bländad kan det leda till att du inte ser någonting, det vill säga en siktsträcka på noll meter.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e08da186019ab8947d4cda",
+        "Question": "Vad kan imitationsinlärning leda till?",
+        "Correct": "Att jag riskerar att ta efter andras dåliga beteende",
+        "Image": "Trafiko 171",
+        "Explanation": "”Imitationsinlärning innebär att du ser hur andra gör och härmar deras beteende. Speciellt oerfarna förare har en tendens att ta efter andra förares beteende eftersom man utgår från att andra förare har mer erfarenhet.\nImitationsinlärning är en bra metod för att lära sig, men det finns risk att man tar efter andras dåliga beteenden.” (Körkortsboken Körkortsteori 2022, sida 12)",
+        "Category": "Personliga förutsättningar",
+        "Incorrect": [
+            "Att jag förbättrar min reaktionstid",
+            "Att jag utvecklas som bilförare genom att ofta titta på bilfilmer",
+            "Att jag utvecklas som bilförare genom att lära mig av mina misstag"
+        ]
+    },
+    {
+        "_id": "61e08e0386019ab8947d4cdb",
+        "Question": "Hur vet du om en medicin kan påverka din körning?",
+        "Correct": "Det står på medicinens bipacksedel",
+        "Incorrect": [
+            "Det finns en varningssymbol på medicinen",
+            "Apoteket måste informera om detta och har allt ansvar"
+        ],
+        "Image": "Trafiko 172",
+        "Explanation": "En medicins biverkningar och dess påverkan på dig som bilförare står i bipacksedeln som medföljer medicinen. Apoteket ska informera om medicinen, men det är du som bär ansvaret att ta reda på medicinens biverkningar.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e08e6686019ab8947d4cdc",
+        "Question": "En frisk person med normalvikt konsumerar sprit (40 %). Ungefär hur många cl sprit förbränner hen per timme?",
+        "Correct": "2 cl",
+        "Incorrect": [
+            "1 cl",
+            "4 cl",
+            "6 cl"
+        ],
+        "Image": "Trafiko 173",
+        "Explanation": "Tänk på att detta gäller för en frisk person med normalvikt och endast är ungefärligt. Förbränningen varierar från person till person och den går inte att påskynda genom att t.ex. dricka vatten eller att basta. Läs mer om förbränning av alkohol på sida 162 i Körkortsboken Körkortsteori 2022.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e08ed186019ab8947d4cdd",
+        "Question": "När måste du enligt lag genomföra en synundersökning efter du tagit B-körkort?",
+        "Correct": "Aldrig",
+        "Incorrect": [
+            "Vartannat år",
+            "Vart femte år",
+            "Varje år efter jag fyllt 70 år"
+        ],
+        "Image": "Trafiko 174",
+        "Explanation": "Enligt lag måste du aldrig genomföra en synundersökning efter att du tagit körkort, oavsett ålder. Det är dock rekommenderat eftersom en skarp syn är väldigt viktigt vid bilkörning.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e08f3586019ab8947d4cde",
+        "Question": "Vilken är den vanligaste orsaken till att många unga män omkommer i trafiken på helgnätter?",
+        "Correct": "De har druckit alkohol och kör påverkade",
+        "Incorrect": [
+            "De är ofta uppe sent och kör trötta",
+            "De är ivriga att komma hem och blir därför stressade",
+            "De är ofta mindre fokuserade på natten"
+        ],
+        "Image": "Trafiko 175",
+        "Explanation": "”Unga vuxna, i synnerhet män, mellan 18 och 24 år är idag överrepresenterade bland de som kör alkoholpåverkade.” Trafikverket",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e08fc286019ab8947d4cdf",
+        "Question": "Vilken grupp av personbilsförare representerar störst andel dödade i trafiken med alkohol i blodet?",
+        "Correct": "Män, 18 – 24 år",
+        "Incorrect": [
+            "Män, 30 – 45 år",
+            "Kvinnor, 18 – 24 år",
+            "Kvinnor, 30 – 45 år"
+        ],
+        "Image": "Trafiko 176",
+        "Explanation": "Enligt Trafikverket har mer än hälften av förare i åldern 15 – 24 år som omkommer i singelolyckor alkohol i kroppen och betydligt fler män än kvinnor kör alkoholpåverkade.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0902886019ab8947d4ce0",
+        "Question": "Vad är sant om en förare som har god självkännedom?",
+        "Correct": "Föraren kan på ett bättre sätt värdera faror i trafiken",
+        "Incorrect": [
+            "Föraren tar ofta risker",
+            "Föraren underskattar ofta faror i trafiken"
+        ],
+        "Image": "Trafiko 177",
+        "Explanation": "God självkännedom innebär att du som förare inte överskattar din egen körförmåga och är medveten om dina kunskaper och din skicklighet. En förare med god självkännedom kan bättre värdera farorna i trafiken och tar därför färre risker.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0908d86019ab8947d4ce1",
+        "Question": "Vad är sant angående medicin som kan påverka din förmåga att köra bil?",
+        "Correct": "Ansvaret ligger på mig att kolla upp medicinens påverkan",
+        "Image": "Trafiko 178",
+        "Explanation": "”Läkaren som skriver ut läkemedlet är skyldig att informera dig om hur läkemedlet påverkar dig som bilförare. Även apoteket som säljer läkemedlet ska informera dig. Trots detta ligger hela ansvaret på dig som förare.” (Körkortsboken Körkortsteori 2022, sida 165)",
+        "Category": "Personliga förutsättningar",
+        "Incorrect": [
+            "Ingen medicin som säljs i apotek påverkar min körförmåga",
+            "Apoteket har skyldighet att informera om medicinens påverkan",
+            "Tillverkaren av medicinen har skyldighet att informera om medicinens påverkan"
+        ]
+    },
+    {
+        "_id": "61e091ec86019ab8947d4ce3",
+        "Question": "Vad kan sannolikhetsinlärning leda till?",
+        "Correct": "Att jag kör fort vid en cykelpassage där det sällan kommer cykeltrafikanter, trots dålig sikt",
+        "Incorrect": [
+            "Att jag kör fort vid en cykelpassage där det ofta kommer cykeltrafikanter, trots dålig sikt",
+            "Att jag kör långsamt vid en cykelpassage där det sällan kommer cykeltrafikanter, trots bra sikt"
+        ],
+        "Image": "Trafiko 180",
+        "Explanation": "Sannolikhetsinlärning innebär att du med hjälp av tidigare erfarenheter bedömer hur riskfyllda situationer är. Därför kör du snabbt vid cykelpassagen trots dålig sikt. Detta är en negativ sannolikhetsinlärning eftersom du ska anpassa hastigheten och köra sakta vid dålig sikt, trots att det sällan kommer cykeltrafikanter.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0924686019ab8947d4ce4",
+        "Question": "Hur påverkar hög hastighet vårt avsökningsområde?",
+        "Correct": "Avsökningsområdet blir smalare",
+        "Incorrect": [
+            "Avsökningsområdet blir bredare"
+        ],
+        "Image": "Trafiko 181",
+        "Explanation": "”Tunnelseende uppstår vid körning i hög fart. Ditt avsökningsområde blir smalare och din förmåga att uppfatta saker vid sidan av vägen försämras.” (Körkortsboken Körkortsteori 2022, sida 189)",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e092a086019ab8947d4ce5",
+        "Question": "Du kör till Norge tillsammans med dina vänner. Du har kört under en lång period och börjar bli trött. Hur ska du gå till väga?",
+        "Correct": "Låta en utvilad kompis köra",
+        "Incorrect": [
+            "Prata med mina vänner",
+            "Lyssna på hög musik",
+            "Dricka en kopp kaffe"
+        ],
+        "Image": "Trafiko 182",
+        "Explanation": "Åtgärder som att dricka en kopp kaffe, prata med vännerna och lyssna på hög musik kan hjälpa, men det bästa sättet att inte råka ut för en trötthetsolycka är att låta en utvilad person köra.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0930786019ab8947d4ce6",
+        "Question": "Du är ute och kör på en landsväg i 70 km/h. Framför dig upptäcker du en ren. Vad ska du göra?",
+        "Correct": "Jag bromsar och väjer om det behövs",
+        "Incorrect": [
+            "Jag använder först ljudsignal och bromsar sedan om renen inte flyttar på sig",
+            "Jag väjer och kör vidare för att inte hindra annan trafik",
+            "Jag använder först ljussignal och bromsar sedan om renen inte flyttar på sig"
+        ],
+        "Image": "Trafiko 183",
+        "Explanation": "En kollision med en ren kan leda till allvarliga skador på fordonet och föraren. För att på bästa sätt undvika en kollision ska du först bromsa och sedan väja om det behövs.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0939586019ab8947d4ce7",
+        "Question": "Vilken grupp av förare har kortast reaktionstid i trafiken?",
+        "Correct": "Medelålders förare med mycket körvana",
+        "Incorrect": [
+            "Äldre förare (över 75) med mycket körvana",
+            "Unga förare som precis tagit körkort"
+        ],
+        "Image": "Trafiko 184",
+        "Explanation": "Förare med mycket erfarenhet håller rörligare blick, vilket förkortar deras reaktionstid. De är också bättre på att bedöma hur riskfyllda situationer är och kan därmed vara bättre mentalt handlingsberedda. Äldre förare (över 75) har oftast längre reaktionstid eftersom reaktionsförmågan försämras vid hög ålder.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0940086019ab8947d4ce8",
+        "Question": "Vad är sant angående narkotiska preparat i kombination med bilkörning?",
+        "Correct": "Kör jag bil när jag är narkotikapåverkad straffas jag på samma sätt som om jag kört rattfullt",
+        "Incorrect": [
+            "Endast mitt balanssinne påverkas av narkotika",
+            "Narkotika har en positiv inverkan på min körning",
+            "Det är inte olagligt att köra narkotikapåverkad"
+        ],
+        "Image": "Trafiko 185",
+        "Explanation": "Narkotiska preparat kan finnas kvar i blodet under lång tid. När det kan spåras i blodet är det olagligt att köra bil och det räknas som rattfylleri.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0948186019ab8947d4ce9",
+        "Question": "Av de förare som dödats i singelolyckor, hur stor del (%) var alkoholpåverkade?",
+        "Correct": "Ca 50%",
+        "Incorrect": [
+            "Ca 70%",
+            "Ca 30%",
+            "ca 90%"
+        ],
+        "Image": "Trafiko 186",
+        "Explanation": "Läs mer på sida 164 i Körkortsboken Körkortsteori 2022.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e094e286019ab8947d4cea",
+        "Question": "Reaktionssträckan ökar när hastigheten ökar. Vad är sant?",
+        "Correct": "Tre gånger högre hastighet ger tre gånger längre reaktionssträcka",
+        "Incorrect": [
+            "Tre gånger högre hastighet ger sex gånger längre reaktionssträcka",
+            "Tre gånger högre hastighet ger nio gånger längre reaktionssträcka"
+        ],
+        "Image": "Trafiko 187",
+        "Explanation": "Reaktionssträckan ökar proportionerligt. Tre gånger högre hastighet ger därför tre gånger längre reaktionssträcka. Sex gånger högre hastighet ger sex gånger längre reaktionssträcka.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0955886019ab8947d4ceb",
+        "Question": "När blir det extra svårt för dig att uppfatta det som händer i trafiken?",
+        "Correct": "När jag blir bländad av mötande fordon",
+        "Incorrect": [
+            "När jag åker på landsvägar",
+            "När jag kör om ett annat fordon",
+            "När jag kör i tättbebyggt område med gatubelysning"
+        ],
+        "Image": "Trafiko 188",
+        "Explanation": "Vid bländning kan din siktsträcka bli noll meter och du ser i princip ingenting. Då är det väldigt svårt att uppfatta vad som händer i trafiken.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e095f586019ab8947d4cec",
+        "Question": "Vad kan ytinlärning av trafikkunskaper leda till?",
+        "Correct": "Att jag lättare glömmer mina kunskaper efter körkortsutbildningen",
+        "Incorrect": [
+            "Att jag får djup förståelse för trafikregler och varför de finns",
+            "Att jag under lång tid efter körkortsutbildningen kommer ihåg mina kunskaper"
+        ],
+        "Image": "TRafiko 189",
+        "Explanation": "Ytinlärning innebär att man inte söker djupare förståelse och endast lär sig för kunskapsprovet. Om du snabbt lär in regler i minnet, glömmer du också snabbt det du lärt dig.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e0967086019ab8947d4ced",
+        "Question": "Vilket av följande alternativ är en trötthetssignal? Det vill säga ett tecken på att du börjar bli trött.",
+        "Correct": "Jag känner mig kall",
+        "Incorrect": [
+            "Jag känner mig svettig",
+            "Jag känner mig stressad",
+            "Jag känner mig hungrig"
+        ],
+        "Image": "TRafiko 190",
+        "Explanation": "Var uppmärksam på trötthetssignaler! Märker du att du börjar bli trött kan du t.ex. stanna och sträcka på benen eller sova en kort stund. Läs mer om trötthetssignaler på sida 157 i Körkortsboken Körkortsteori 2022.",
+        "Category": "Personliga förutsättningar"
+    },
+    {
+        "_id": "61e2b8cc24a250accf4fb3ee",
+        "Question": "Är det tillåtet att parkera på en huvudled?",
+        "Correct": "Nej",
+        "Incorrect": [
+            "Ja, om hastighetsbegränsningen är 70 km/h eller lägre\n",
+            "Ja, om hastighetsbegränsningen är 50 km/h eller lägre\n",
+            "Ja, om jag inte hindrar annan trafik\n"
+        ],
+        "Image": "Trafiko 191",
+        "Explanation": "Huvudleder är oftast väldigt trafikerade vägar. Det råder parkeringsförbud på huvudleder eftersom parkerade bilar både kan hindra framkomligheten och vara till fara.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61e2b9ae24a250accf4fb3ef",
+        "Qusetion": "Du har precis parkerat din bil (den röda bilen på bilden). Hela bilen står innanför parkeringsrutan men du har parkerat så nära den silvriga bilen att föraren ej kan komma in genom förardörren. Är parkeringen laglig?",
+        "Correct": "Nej, eftersom jag hindrar föraren av den silvriga bilen",
+        "Incorrect": [
+            "Ja, eftersom min bil står innanför min parkeringsruta"
+        ],
+        "Image": "Trafiko 192",
+        "Explanation": "Oavsett om din bil står i en parkeringsruta eller inte får du inte parkera på ett sätt som blockerar en annan förare från att komma in i sin bil.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61e2ba1224a250accf4fb3f0",
+        "Question": "Du kör på en enkelriktad väg med två körfält när du närmar dig en korsning. Vilket körfält ska du välja om du ska svänga vänster?",
+        "Correct": "Vänster körfält",
+        "Incorrect": [
+            "Jag kan välja antingen högra eller vänstra körfältet",
+            "Höger körfält"
+        ],
+        "Image": "Trafiko 193",
+        "Explanation": "”Ska du svänga till vänster ska du istället placera bilen nära vägens mitt. Undantag: Kör du på en enkelriktad gata ska du placera bilen längst till vänster av vägen vid vänstersväng.” (Körkortsboken Körkortsteori 2022, sida 46)",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61e2bac424a250accf4fb3f1",
+        "Question": "Du ska ut och köra med en tillkopplad släpvagn. Vilken/vilka handlingar måste du ha med dig?",
+        "Correct": "Endast körkort",
+        "Incorrect": [
+            "Körkort och registreringsbevis för släpvagnen",
+            "Registreringsbevis för både bilen och släpvagnen",
+            "Endast släpvagnens registreringsbevis"
+        ],
+        "Image": "Trafiko 194",
+        "Explanation": "Du ska alltid ta med dig körkort. Ytterligare handlingar behövs inte, trots att du kör med tillkopplad släpvagn.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61e2bef024a250accf4fb3f2",
+        "Question": "Vem kan bli straffad om du lånar ut din bil till en kompis, som du vet saknar körkort?",
+        "Correct": "Både jag och min kompis",
+        "Incorrect": [
+            "Endast min kompis",
+            "Endast jag",
+            "Ingen av oss"
+        ],
+        "Image": "Trafiko 195",
+        "Explanation": "Det är olagligt för din kompis att köra bilen utan körkort. Om du är medveten om att han/hon saknar körkort kan även du bli straffad.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61e2bf7424a250accf4fb3f3",
+        "Question": "En bil med denna skylt har stannat längs vägkanten. Lyktorna blinkar gult ljus. Vad gäller?",
+        "Correct": "Jag får köra förbi bilen om jag kör lugnt och långsamt",
+        "Incorrect": [
+            "Jag måste stanna och vänta till lyktorna slutar blinka",
+            "Jag har väjningsplikt mot bilen när föraren startar från vägkanten"
+        ],
+        "Image": "Trafiko 196",
+        "Explanation": "”Bilar och bussar som skjutsar barn till skolan är försedda med en särskild skylt med orangea blinklyktor. När dessa fordon ska släppa av passagerare tänds blinklyktorna för att uppmärksamma övriga trafikanter. Lyktorna tänds 100 meter innan avstigningsplatsen och är tända under uppehållet. De släcks först 100 meter efter avstigningsplatsen.” (Körkortsboken Körkortsteori 2022, sida 193)\nDu har inte väjningsplikt mot bilen och du behöver inte stanna, men du ska köra lugnt och långsamt eftersom det kan finnas avsläppta barn i närheten av bilen.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61e2c01a24a250accf4fb3f4",
+        "Quesiton": "Vilken är den högsta hastighet du får köra med bromsad lätt släpvagn tillkopplad till bilen?",
+        "Correct": "80 km/h",
+        "Incorrect": [
+            "90 km/h",
+            "10 km/h under högsta tillåtna hastighet på vägen",
+            "Samma hastighet som gäller på vägen"
+        ],
+        "Image": "Trafiko 197",
+        "Explanation": "Läs mer om vilka hastighetsbegränsningar som gäller för olika fordonskombinationer på sida 240 i Körkortsboken Körkortsteori 2022.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61e2c0f724a250accf4fb3f5",
+        "Question": "Vad innebär markeringen i mitten av vägen?",
+        "Correct": "Varning för skymd sikt men linjen får överskridas",
+        "Incorrect": [
+            "Sikten är endast skymd för mötande trafik",
+            "Sikten är endast skymd i min körriktning",
+            "Varning för skymd sikt och linjen får inte överskridas"
+        ],
+        "Image": "Trafiko 198",
+        "Explanation": "Markeringen i mitten är en varningslinje. I detta fall varnar linjen för skymd sikt på grund av backkrönet längre fram. Du får överskrida linjen, men du bör inte göra det eftersom sikten är skymd.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61e2c20d24a250accf4fb3f6",
+        "Question": "Har du väjningsplikt mot gångtrafikanten på bilden?",
+        "Correct": "Ja",
+        "Incorrect": [
+            "Nej, personen ska stanna i mitten och vänta tills jag kört förbi"
+        ],
+        "Image": "Trafiko 199",
+        "Explanation": "Vid obevakade övergångsställen, som på bilden, har du väjningsplikt mot trafikanter som är ute på övergångsstället eller just ska passera.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61e2c26a24a250accf4fb3f7",
+        "Question": "Om en vägtransportledare ger dig anvisningar, är du skyldig att följa dem?",
+        "Correct": "Ja",
+        "Incorrect": [
+            "Nej"
+        ],
+        "Image": "Trafiko 200",
+        "Explanation": "”Vägtransportledare eskorterar långa, tunga och breda dispenstransporter. [...] Vägtransportledaren har samma rätt som polisen att ge anvisningar till övriga trafikanter med polismans tecken för att transporten ska kunna framföras på ett trafiksäkert sätt och hindra övrig trafik så lite som möjligt.” Trafikverket",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61e2c2ea24a250accf4fb3f8",
+        "Question": "Du kör i ett villaområde och närmar dig en korsning utan anvisningar. Du ska köra rakt fram, vad gäller?",
+        "Correct": "Jag har väjningsplikt mot trafik från höger",
+        "Incorrect": [
+            "Jag har väjningsplikt mot mötande trafik",
+            "Jag har väjningsplikt mot trafik från vänster",
+            "Jag har väjningsplikt mot all annan trafik i korsningen"
+        ],
+        "Image": "Trafiko 201",
+        "Explanation": "Eftersom detta inte är en huvudled gäller högerregeln, det vill säga att du har väjningsplikt mot trafik från höger.",
+        "Category": "Trafikregler"
+    },
+    {
+        "_id": "61e2c39d24a250accf4fb3f9",
+        "Question": "Du befinner dig i accelerationsfältet. Hur ska du göra i denna situation?",
+        "Correct": "Jag ska anpassa farten så att jag kan svänga in i en lucka utan att störa annan trafik",
+        "Incorrect": [
+            "Jag är skyldig att lämna företräde åt alla fordon på motorvägen",
+            "Jag är skyldig att stanna innan jag kör in på motorvägen"
+        ],
+        "Image": "Trafiko 202",
+        "Explanation": "Alternativ 1: Fel, du ska inte stanna innan du kör in på motorvägen. Du ska använda accelerationsfältet för att öka din hastighet så att du kan köra in i en lucka utan att störa trafiken på motorvägen.\nAlternativ 2: Fel, du är inte skyldig att lämna företräde åt trafiken på motorvägen. Det är ett ömsesidigt samspel.\nAlternativ 3: Rätt.",
+        "Category": "Trafikregler"
+    }
+]
